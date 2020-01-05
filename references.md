@@ -16,13 +16,13 @@ That said, the wild west state of affairs is a good thing for continued rapid in
 ### Programming
 
 * The fastest way to learn to program is to Learn Python 3 The Hard Way (LP3THW). Python 2 is rapidly becoming obsolete. You should not consider learning it at this point.
-* Eventually you'll want to get the paid PDF, but enough of LP3THW is on the web in HTML to get a good start: (https://learnpythonthehardway.org/python3](LP3THW by Zed Shaw).
+* Eventually you'll want to get the paid PDF, but enough of LP3THW is on the web in HTML to get a good start: [LP3THW by Zed Shaw](https://learnpythonthehardway.org/python3).
 	
 ### Change Management
 
 * Software is complex and easily editable. These two facts make change management essential. The most popular change management system is git. It is far superior to the systems that preceded it (CVS and Subversion).
-* If you want to understand git instead of just memorizing the most common commands, read Travis Swicegood's [https://pragprog.com/book/pg_git/pragmatic-guide-to-git](Pragmatic Guide to Git)
-* After you have used git for a couple of months, take a deep dive into how it works: [https://git-scm.com/book/en/v2/Git-Internals-Git-Objects](Git Objects)
+* If you want to understand git instead of just memorizing the most common commands, read Travis Swicegood's [Pragmatic Guide to Git](https://pragprog.com/book/pg_git/pragmatic-guide-to-git)
+* After you have used git for a couple of months, take a deep dive into how it works: [Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects]
 
 ## Python Laboratory
 	
@@ -34,7 +34,7 @@ We need an environment where we can put the physics, math, and software together
 
 ### Making Binder Notebook URLs
 
-* How are the notebook URLs in the detailed schedule made? Go to <a href="mybinder.org">mybinder.org</a>.
+* How are the notebook URLs in the detailed schedule made? Go to <a href="https://mybinder.org">mybinder.org</a>.
 * Enter notebook info as shown in the screenshot below and then click launch.
 
 ![](./resources/binder_screenshot.png)
@@ -42,7 +42,7 @@ We need an environment where we can put the physics, math, and software together
 	
 ### VPython
 
-* Directions for <a href="https://vpython.org/presentation2018/install.html">installing Jupyter and VPython</a>.</li>
+* Directions for <a href="https://vpython.org/presentation2018/install.html">installing Jupyter and VPython</a>.
 	
 ## README
 
