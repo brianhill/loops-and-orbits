@@ -1,7 +1,5 @@
 # Detailed Schedule for JAN-033, Loops and Orbits, January, 2020
 
-## Weekly Schedule (reproduced from <a href="./index.html">Syllabus</a>)
-
 ### Week 1
 
 * Physics: The Description of Motions of Objects Using Coordinates (Kinematics). Speed. Velocity.</li>
