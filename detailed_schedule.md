@@ -27,12 +27,15 @@
 ### Week 1 Physics &amp; Math
 
 * <a href="./physics_and_math/lao-1-1-pm.pdf">Physics and Math Notes 1-1</a>: Speed vs. Velocity. Coordinates. Units. Velocity from position. Position from velocity. Indices.</a>
+
+### Week 1 Worksheets
+
 * <a href="./worksheets/lao-1-1-ws1.pdf">Worksheet 1-1-WS1</a>: Velocity from Position.
 * <a href="./worksheets/lao-1-1-ws2.pdf">Worksheet 1-1-WS2</a>: Position from Velocity.
 	
 ### Week 1 Computer Science
 
-* Markdown
+* <a href="./computer_science/lao-1-1-cs.pdf">Computer Science Notes 1-1</a>: Statements, Expressions, Assignments, Variables, Types, Comparisons, While Loops.</a>
 	
 ### Week 1 Python Coding Lab
 
