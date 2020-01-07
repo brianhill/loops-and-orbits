@@ -37,7 +37,7 @@
 ### Week 1 Computer Science
 
 * <a href="./computer_science/lao-1-1-cs.pdf">Computer Science Notes 1-1</a>: Statements, Expressions, Assignments, Variables, Types.</a>
-* <a href="./computer_science/lao-1-2-cs.pdf">Computer Science Notes 1-2</a>: Comparisons, While Loops.</a>
+* <a href="./computer_science/lao-1-2-cs.pdf">Computer Science Notes 1-2</a>: Comparisons, While Loops. Lists.
 	
 ### Week 1 Python Coding Lab
 
