@@ -26,15 +26,15 @@
 
 ### Week 1 Physics &amp; Math
 
-* [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed vs. Velocity. Coordinates. Units. Velocity from position.
-* [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from velocity. Indices.
+* [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed vs. Velocity. Coordinates. Units. Velocity from Position.
+* [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from Velocity. Indices. Summations.
 * [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Constant Acceleration.
 
 ### Week 1 Worksheets
 
-* [WS1 Velocity from Position](./worksheets/lao-1-1-ws1.pdf)
-* [WS2 Position from Velocity](./worksheets/lao-1-2-ws2.pdf)
-* [WS3 Steady Acceleration](./worksheets/lao-1-3-ws3.pdf)
+* [Worksheet 1](./worksheets/lao-1-1-ws1.pdf): Velocity from Position.
+* [Worksheet 2](./worksheets/lao-1-2-ws2.pdf): Position from Velocity.
+* [Worksheet 3](./worksheets/lao-1-3-ws3.pdf): Steady Acceleration.
 	
 ### Week 1 Computer Science
 
