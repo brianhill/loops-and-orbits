@@ -44,8 +44,9 @@
 	
 ### Week 1 Python Coding Lab
 
-* Jupyter <a href="https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb">Notebook 1-1</a> (online version &mdash; uses Binder)
-* Jupyter <a href="https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb">Notebook 1-2</a> (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb) (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb) (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb) (online version &mdash; uses Binder)
 	
 ## Week 2 Detailed Schedule
 
