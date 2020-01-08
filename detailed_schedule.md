@@ -3,7 +3,7 @@
 ### Week 1
 
 * Physics: The Description of Motions of Objects Using Coordinates (Kinematics). Speed. Velocity.
-* Programming: Jupyter Notebooks. Markdown. Elements of Python. Program Execution. Variables. Conditionals. Loops. Lists.
+* Programming: Jupyter Notebooks. Markdown. Elements of Python. Program Execution. Statements. Expressions. Variables and Assignments. Types. Comparisons. While Loops. Lists. Ranges. Tuples. For Loops. If Statements.
 
 ### Week 2
 
@@ -26,18 +26,21 @@
 
 ### Week 1 Physics &amp; Math
 
-* <a href="./physics_and_math/lao-1-1-pm.pdf">Physics and Math Notes 1-1</a>: Speed vs. Velocity. Coordinates. Units. Velocity from position.</a>
-* <a href="./physics_and_math/lao-1-2-pm.pdf">Physics and Math Notes 1-2</a>: Position from velocity. Indices.</a>
+* [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed vs. Velocity. Coordinates. Units. Velocity from position.
+* [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from velocity. Indices.
+* [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Constant Acceleration.
 
 ### Week 1 Worksheets
 
-* <a href="./worksheets/lao-1-1-ws1.pdf">Worksheet 1-1-WS1</a>: Velocity from Position.
-* <a href="./worksheets/lao-1-2-ws2.pdf">Worksheet 1-2-WS2</a>: Position from Velocity.
+* [WS1 Velocity from Position](./worksheets/lao-1-1-ws1.pdf)
+* [WS2 Position from Velocity](./worksheets/lao-1-2-ws2.pdf)
+* [WS3 Steady Acceleration](./worksheets/lao-1-3-ws3.pdf)
 	
 ### Week 1 Computer Science
 
-* <a href="./computer_science/lao-1-1-cs.pdf">Computer Science Notes 1-1</a>: Statements, Expressions, Assignments, Variables, Types.</a>
+* <a href="./computer_science/lao-1-1-cs.pdf">Computer Science Notes 1-1</a>: Statements, Expressions, Variables and Assignments, Types.</a>
 * <a href="./computer_science/lao-1-2-cs.pdf">Computer Science Notes 1-2</a>: Comparisons, While Loops, Lists.
+* Computer Science Notes 1-3. Ranges. Tuples. For Loops. If Statements.
 	
 ### Week 1 Python Coding Lab
 
