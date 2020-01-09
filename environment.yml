@@ -1,5 +1,5 @@
 name: vpython-environment
+channels:
+  - vpython
 dependencies:
-  - numpy
-  - pandas
   - vpython
