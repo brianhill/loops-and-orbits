@@ -1,5 +1,0 @@
-name: vpython-environment
-channels:
-  - vpython
-dependencies:
-  - vpython
