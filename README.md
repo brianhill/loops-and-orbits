@@ -1,14 +1,10 @@
 # Loops and Orbits
 
-Syllabus, References, Weekly Schedule, and Daily Schedule
+Syllabus, Weekly and Daily Schedules
 
 ## Syllabus
 
 * [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
-
-## References
-
-* [References](./references.md)
 
 ## Weekly Schedule
 
