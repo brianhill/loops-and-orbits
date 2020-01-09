@@ -1,6 +1,13 @@
 # Loops and Orbits
 
+Syllabus, References, Weekly Schedule, and Daily Schedule
+
+## Syllabus
+
 * [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
+
+## References
+
 * [References](./references.md)
 
 ## Weekly Schedule
@@ -27,9 +34,9 @@
 * Physics or Other Applications: Implementation and Presentation of Final Project.
 * Programming: Display of Program Output.
 
-## Detailed Schedule (filled in retrospectively)
+## Daily Schedule (filled in retrospectively)
 
-### Week 1 Detailed Schedule
+### Week 1 Daily Schedule
 
 #### Week 1 Physics &amp; Math
 
@@ -47,12 +54,12 @@
 
 * <a href="./computer_science/lao-1-1-cs.pdf">Computer Science Notes 1-1</a>: Statements, Expressions, Variables and Assignments, Types.</a>
 * <a href="./computer_science/lao-1-2-cs.pdf">Computer Science Notes 1-2</a>: Comparisons, While Loops, Lists.
-* Computer Science Notes 1-3. Ranges. Tuples. For Loops. If Statements.
-	
+* [Computer Science Notes 1-3](./physics_and_math/lao-1-3-cs.pdf): Ranges. Tuples. For Loops.
+
 #### Week 1 Python Coding Lab
 
 * Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb) (online version &mdash; uses Binder)
 * Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb) (online version &mdash; uses Binder)
 * Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb) (online version &mdash; uses Binder)
 	
-### Week 2 Detailed Schedule
+### Week 2 Daily Schedule
