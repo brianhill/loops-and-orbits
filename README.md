@@ -39,7 +39,7 @@ Syllabus, Weekly and Daily Schedules
 * [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed. Velocity. Definitiions. Coordinates. Units of Position and Velocity. Velocity from Position.
 * [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from Velocity. Indices. Summations. Relationship to Derivatives and Integrals.
 * [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Newton's Three Laws. Units of Acceleration. Constant Acceleration.
-* Physics and Math Notes 1-4: Acceleration with Drag. Harmonic Oscillator. Small-Amplitude Pendulum. Non-Linear Pendulum.
+* Physics and Math Notes 1-4: Harmonic Oscillator.
 
 #### Week 1 Worksheets
 
@@ -60,5 +60,6 @@ Syllabus, Weekly and Daily Schedules
 * Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb) (online version &mdash; uses Binder)
 * Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb) (online version &mdash; uses Binder)
 * Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb) (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb) (online version &mdash; uses Binder)
 	
 ### Week 2 Daily Schedule
