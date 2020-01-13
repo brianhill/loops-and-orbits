@@ -72,29 +72,11 @@
 	
 #### Week 2 Computer Science
 
-* 
+* [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
 
 #### Week 2 Python Coding Lab
-
-Starting this second week, you will be running the notebooks on the lab iMacs directly instead of using Binder.
-
-Directions for opening a notebook:
-
-* Click the link for the notebook below.
-* Click the button labeled "Raw".
-* Hit Command-s (in Safari &mdash; other browsers may be different) to save the raw notebook.
-* Override the .txt extension &mdash; you want the extension to be .ipynb.
-* Save the file into your home directory &mdash; for me that is /Users/brh3.
-* Go to the Jupyter Notebook and find and open the file you just saved.
-
-Huge wins of this more complex procedure:
-
-* Performance is much higher than using Binder.
-* Changes will now be saved to your files on the lab iMac whenever you save in Jupyter.
-
-Links for this week's notebooks:
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb)
+* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking it out of the Park (download to your machine per these notes [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 
 ### Week 3 Daily Schedule
 
@@ -118,4 +100,4 @@ Links for this week's notebooks:
 
 ### Footnotes
 
-<a name="footnote1">1</a>: For students who had an easy time accepting the pass-by-value and pass-by-reference rules, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/). The bottom line is Python is indeed pass-by-value, but a list is an object &mdash; we haven't learned about objects yet! &mdash; and for objects the variable and the function argument are references to the object, not the object itself. This means that the function body gets a copy of the reference to the list, and the copy of the reference still refers to the original list.
+<a name="footnote1">1</a>: For students who had an easy time accepting the pass-by-value and pass-by-reference rules, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/) The bottom line is Python is indeed pass-by-value, but a list is an object &mdash; we haven't learned about objects yet! &mdash; and for objects the variable and the function argument are references to the object, not the object itself. This means that the function body gets a copy of the reference to the list, and the copy of the reference still refers to the original list.
