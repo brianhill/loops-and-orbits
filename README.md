@@ -55,7 +55,7 @@
 * [Computer Science Notes 1-1](./computer_science/lao-1-1-cs.pdf): Markdown. Statements. Expressions. Variables and Assignments. Types.
 * [Computer Science Notes 1-2](./computer_science/lao-1-2-cs.pdf): Comparisons. While Loops. Lists. Lists vs. Arrays.
 * [Computer Science Notes 1-3](./computer_science/lao-1-3-cs.pdf): Tuples. Unpacking Tuples. Ranges. For Loops. Compare and Contrast Lists, Tuples, and Ranges.
-* [Computer Science Notes 1-4](./computer_science/lao-1-4-cs.pdf): Introduce Function Definitions (Power-of-Two Implementation), Function Usage (Call Sites), Scope of Variables. Lifetime of Variables. Pass-by-Value Example (Alternate Power-of-Two Implementation). Pass-by-Reference Example (Add-to-Roster).
+* [Computer Science Notes 1-4](./computer_science/lao-1-4-cs.pdf): Introduce Function Definitions (Power-of-Two Implementation), Function Usage (Call Sites), Scope of Variables. Lifetime of Variables. Pass-by-Value Example (Alternate Power-of-Two Implementation). Pass-by-Reference Example (Add-to-Roster).<sup>[1](#footnote1)</sup>
 
 #### Week 1 Python Coding Lab
 
@@ -72,7 +72,7 @@
 	
 #### Week 2 Computer Science
 
-* Only for students who had an easy time accepting the pass-by-value and pass-by-reference rules in the previous computer science notes, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/). The bottom line is Python is pass-by-value, but a list is an object, and for objects the variable and the function argument are references to the object, not the object itself, so the function body gets a copy of the reference to the list, and the copy it gets refers to the original list.
+* 
 
 #### Week 2 Python Coding Lab
 
@@ -115,3 +115,7 @@ Links for this week's notebooks:
 #### Week 4 Computer Science
 
 #### Week 4 Python Coding Lab
+
+### Footnotes
+
+<a name="footnote1">1</a>: For students who had an easy time accepting the pass-by-value and pass-by-reference rules, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/). The bottom line is Python is indeed pass-by-value, but a list is an object &mdash; we haven't learned about objects yet! &mdash; and for objects the variable and the function argument are references to the object, not the object itself. This means that the function body gets a copy of the reference to the list, and the copy of the reference still refers to the original list.
