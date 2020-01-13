@@ -1,7 +1,5 @@
 # Loops and Orbits &mdash; README.md
 
-Links:
-
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
 * [Weekly Schedule](#weekly-schedule)
 * [Daily Schedule](#daily-schedule)
@@ -74,9 +72,20 @@ Links:
 	
 #### Week 2 Computer Science
 
-* Only for students who had an easy time accepting the pass-by-value and pass-by-reference rules in the last computer science notes, here is a good-quality and patient explanation: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/). The bottom line is Python is pass-by-value, but a list is an object, and for objects, the variable and function argument are references to the object, not the object itself, so the function body gets a copy of the reference to the list, but the copy refers to the original list.
+* Only for students who had an easy time accepting the pass-by-value and pass-by-reference rules in the previous computer science notes, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/). The bottom line is Python is pass-by-value, but a list is an object, and for objects the variable and the function argument are references to the object, not the object itself, so the function body gets a copy of the reference to the list, and the copy it gets refers to the original list.
 
 #### Week 2 Python Coding Lab
+
+* Starting this second week, you will be running the notebooks on the lab iMacs directly instead of using Binder. Here is how you do that:
+	* Go to the place on the web where I put the notebook: Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb)
+	* Click the button labeled "Raw"
+	* Hit Command-S (in Safari &mdash; other browsers may be different) to save the raw notebook
+	* Override the .txt extension &mdash; you want the extension to be .ipynb
+	* Save the file into your home directory &mdash; for me that is /Users/brh3
+	* You should now be able to open the notebook in Jupyter
+	* Huge wins of this more complex procedure:
+		* Much higher performance than web solution
+		* Your changes will not be saved
 
 ### Week 3 Daily Schedule
 
