@@ -76,7 +76,7 @@
 
 #### Week 2 Python Coding Lab
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking it out of the Park (download to your machine per these notes [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
+* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download to your machine per  [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 
 ### Week 3 Daily Schedule
 
