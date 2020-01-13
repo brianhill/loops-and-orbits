@@ -78,21 +78,21 @@
 
 Starting this second week, you will be running the notebooks on the lab iMacs directly instead of using Binder.
 
-Here are the directions for opening a notebook:
+Directions for opening a notebook:
 
 * Click the link for the notebook below.
-* Click the button labeled "Raw"
-* Hit Command-s (in Safari &mdash; other browsers may be different) to save the raw notebook
-* Override the .txt extension &mdash; you want the extension to be .ipynb
-* Save the file into your home directory &mdash; for me that is /Users/brh3
-* Go to the Jupyter Notebook and find and open the file you just saved
+* Click the button labeled "Raw".
+* Hit Command-s (in Safari &mdash; other browsers may be different) to save the raw notebook.
+* Override the .txt extension &mdash; you want the extension to be .ipynb.
+* Save the file into your home directory &mdash; for me that is /Users/brh3.
+* Go to the Jupyter Notebook and find and open the file you just saved.
 
 Huge wins of this more complex procedure:
 
-* Much higher performance than web solution
-* Your changes will now be saved to your account on the lab iMac whenever you save in Jupyter.
+* Performance is much higher than using Binder.
+* Changes will now be saved to your files on the lab iMac whenever you save in Jupyter.
 
-##### Links to this week's notebooks
+Links for this week's notebooks:
 	
 * Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb)
 
