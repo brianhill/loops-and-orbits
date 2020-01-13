@@ -11,12 +11,12 @@ Syllabus, Weekly and Daily Schedules
 ### Week 1
 
 * Physics &amp; Math: The Description of Motions of Objects in 1-D including Coordinates, Units, Speed, Velocity, and Acceleration.
-* Computer Science: Jupyter Notebooks. Documentation in Markdown. Elements of Python including Expressions, Statements, Variables and Assignments, Types, Control Flow, Functions.
+* Computer Science: Jupyter Notebooks. Documentation in Markdown. Elements of Python including Expressions, Statements, Variables and Assignments, Types (Lists, Tuples, and Ranges), Control Flow (While and For loops), and introducing Functions.
 
 ### Week 2
 
-* Physics &amp; Math: The Description of Motions of Objects in 1-D including Coordinates, Units, Speed, Velocity, and Acceleration.
-* Computer Science: Packages. Objects. Methods. Graphics. Version Control.
+* Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Circular Motion. Two-Dimensional Acceleration.
+* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Packages. Objects. Methods. Graphics. Version Control.
 
 ### Week 3
 
@@ -39,27 +39,27 @@ Syllabus, Weekly and Daily Schedules
 * [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed. Velocity. Definitiions. Coordinates. Units of Position and Velocity. Velocity from Position.
 * [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from Velocity. Indices. Summations. Relationship to Derivatives and Integrals.
 * [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Newton's Three Laws. Units of Acceleration. Constant Acceleration.
-* Physics and Math Notes 1-4: Harmonic Oscillator.
+* [Physics and Math Notes 1-4](./physics_and_math/lao-1-4-pm.pdf): Physics and Math Notes 1-4: Air Glider on Spring. Demonstration. Amplitude. Period. Frequency. Spring Constant. Mass. Sign of Acceleration. Comparing Position, Velocity, and Acceleration Graphs. Adding Damping.
 
-#### Week 1 Worksheets
+#### Week 1 Worksheets and Homework
 
-* [Worksheet 1](./worksheets/lao-1-1-ws1.pdf): Velocity from Position.
-* [Worksheet 2](./worksheets/lao-1-2-ws2.pdf): Position from Velocity.
-* [Worksheet 3](./worksheets/lao-1-3-ws3.pdf): Steady Acceleration with Graphs.
-* Worksheet 4: Visualizing Acceleration in the Harmonic Oscillator.
+* [Worksheet 1 (2020-01-06)](./worksheets/lao-1-1-ws1.pdf): Velocity from Position (Lionel Messi Run).
+* [Worksheet 2 (2020-01-07)](./worksheets/lao-1-2-ws2.pdf): Position from Velocity (Lionel Messi Run).
+* [Worksheet 3 (2020-01-09)](./worksheets/lao-1-3-ws3.pdf): Steady Acceleration with Graphs (Drag Racer).
+* [Homework 1 (2020-01-10)](./homework/lao-hw1.pdf): Adding Damping to the Air Glider. Adding Wind Resistance to the Drag Racer.
 	
 #### Week 1 Computer Science
 
 * [Computer Science Notes 1-1](./computer_science/lao-1-1-cs.pdf): Markdown. Statements. Expressions. Variables and Assignments. Types.
 * [Computer Science Notes 1-2](./computer_science/lao-1-2-cs.pdf): Comparisons. While Loops. Lists. Lists vs. Arrays.
 * [Computer Science Notes 1-3](./computer_science/lao-1-3-cs.pdf): Tuples. Unpacking Tuples. Ranges. For Loops. Compare and Contrast Lists, Tuples, and Ranges.
-* Computer Science Notes 1-4: Functions.
+* Computer Science Notes 1-4: Introduce Function Definitions (Power-of-Two Implementation), Function Usage (Call Sites), Scope of Variables. Lifetime of Variables. Pass by Value Example (Alternate Power-of-Two Implementation). Pass by Reference Example (Add-to-Roster).
 
 #### Week 1 Python Coding Lab
 
 * Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb) (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb) (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb) (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb) (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider on Spring (online version &mdash; uses Binder)
 	
 ### Week 2 Daily Schedule
