@@ -59,10 +59,10 @@
 
 #### Week 1 Python Coding Lab
 
-* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb) (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer (online version &mdash; uses Binder)
-* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider on Spring (online version &mdash; uses Binder)
+* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb): Python Building Blocks (run this week's notebooks online using Binder)
+* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run
+* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer
+* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider
 	
 ### Week 2 Daily Schedule
 
@@ -76,7 +76,7 @@
 
 #### Week 2 Python Coding Lab
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download to your machine per  [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
+* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to your machine per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 
 ### Week 3 Daily Schedule
 
