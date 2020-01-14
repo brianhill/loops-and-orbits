@@ -77,7 +77,7 @@
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
-* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): If/Else Statements. Import Statements; Dependencies; Stack Traces;
+* Computer Science 2-2: If Statements and Variants, If/Else, If/Elif, and If/Elif/Else; Libraries; Import Statements; Dependencies; Stack Traces (aka Backtraces, aka Tracebacks).
 
 #### Week 2 Python Coding Lab
 	
@@ -86,7 +86,7 @@
 
 #### Week 2 Homework
 
-* LINK DOESN'T YET WORK [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Your First Rocket!
+* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Your First Rocket!
 
 ### Week 3 Daily Schedule
 
