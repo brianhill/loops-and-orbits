@@ -2,7 +2,7 @@
 
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
 * [Weekly Schedule](#weekly-schedule)
-* [Daily Schedule](#daily-schedule)
+* Daily Schedule
   * [Week 1 Daily Schedule](#week-1-daily-schedule)
   * [Week 2 Daily Schedule](#week-2-daily-schedule)
   * [Week 3 Daily Schedule](#week-3-daily-schedule)
@@ -78,7 +78,7 @@
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
-* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): Import Statments, Stack Traces.
+* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): Import Statements; Dependencies; Stack Traces.
 
 #### Week 2 Python Coding Lab
 	
