@@ -43,12 +43,11 @@
 * [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Newton's Three Laws. Units of Acceleration. Constant Acceleration.
 * [Physics and Math Notes 1-4](./physics_and_math/lao-1-4-pm.pdf): Air Glider on Spring Demonstration. Amplitude. Period. Frequency. Spring Constant. Mass. Sign of Acceleration. Comparing Position, Velocity, and Acceleration Graphs. Adding Damping to Air Glider. Adding Wind Resistance to Drag Racer.
 
-#### Week 1 Worksheets and Homework
+#### Week 1 Worksheets
 
 * [Worksheet 1 (2020-01-06)](./worksheets/lao-1-1-ws1.pdf): Velocity from Position (Lionel Messi Run).
 * [Worksheet 2 (2020-01-07)](./worksheets/lao-1-2-ws2.pdf): Position from Velocity (Lionel Messi Run).
 * [Worksheet 3 (2020-01-09)](./worksheets/lao-1-3-ws3.pdf): Steady Acceleration with Graphs (Drag Racer).
-* [Homework 1 (2020-01-10)](./homework/lao-hw1.pdf): Adding Damping to the Air Glider. Adding Wind Resistance to the Drag Racer.
 	
 #### Week 1 Computer Science
 
@@ -63,27 +62,31 @@
 * Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run
 * Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer
 * Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider
+
+#### Week 1 Homework
+
+* [Homework 1 (assigned 2020-01-10, due 2012-01-13)](./homework/lao-hw1.pdf): Adding Damping to the Air Glider. Adding Wind Resistance to the Drag Racer.
 	
 ### Week 2 Daily Schedule
 
 #### Week 2 Physics &amp; Math
 
-* LINK DOESN'T YET WORK [Physics and Math Notes 2-1](./physics_and_math/lao-2-1-pm.pdf): Position, Velocity, and Acceleration in 2-D; Similar Triangles; Trig Functions to get Components of Vectors from Lengths and Angles.
-* LINK DOESN'T YET WORK [Physics and Math Notes 2-2](./physics_and_math/lao-2-2-pm.pdf): Getting Lengths and Angles from Component of Vecctors; Air Resistance (Drag) in 2-D.
-
-#### Week 2 Worksheets and Homework
-
-* LINK DOESN'T YET WORK [Homework 2 (2020-01-14)](./homework/lao-hw2.pdf)
+* Physics and Math 2-1: Lengths; Angles; Position, Velocity, and Acceleration in 2-D; Similar Triangles; Getting Components of Vectors from Lengths and Angles; Newton's Laws in 2-D, Vector Form, Component Form.
+* Physics and Math 2-2: Getting Lengths and Angles from Components of Vectors; Air Resistance (Drag) in 2-D. Rocket Thrust in 2-D.
 
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
-* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): Import Statements; Dependencies; Stack Traces.
+* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): If/Else Statements. Import Statements; Dependencies; Stack Traces;
 
 #### Week 2 Python Coding Lab
 	
 * Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to your machine per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 * Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance
+
+#### Week 2 Homework
+
+* LINK DOESN'T YET WORK [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Your First Rocket!
 
 ### Week 3 Daily Schedule
 
