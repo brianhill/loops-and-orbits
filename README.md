@@ -72,12 +72,12 @@
 #### Week 2 Physics &amp; Math
 
 * Physics and Math 2-1: Lengths; Angles; Position, Velocity, and Acceleration in 2-D; Similar Triangles; Getting Components of Vectors from Lengths and Angles; Newton's Laws in 2-D, Vector Form, Component Form.
-* Physics and Math 2-2: Getting Lengths and Angles from Components of Vectors; Air Resistance (Drag) in 2-D. Rocket Thrust in 2-D.
+* Physics and Math 2-2: Getting Lengths and Angles from Components of Vectors; Air Resistance in 2-D. Rocket Thrust in 2-D.
 
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
-* Computer Science 2-2: If Statements and Variants, If/Else, If/Elif, and If/Elif/Else; Libraries; Import Statements; Dependencies; Stack Traces (aka Backtraces, aka Tracebacks).
+* Computer Science 2-2: If Statements and Variants, If/Else, If/Elif, and If/Elif/Else; Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
 
 #### Week 2 Python Coding Lab
 	
