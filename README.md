@@ -38,7 +38,7 @@
 
 #### Week 1 Physics &amp; Math
 
-* [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed. Velocity. Definitiions. Coordinates. Units of Position and Velocity. Velocity from Position.
+* [Physics and Math Notes 1-1](./physics_and_math/lao-1-1-pm.pdf): Speed; Velocity; Definitiions; Coordinates; Units of Position and Velocity; Velocity from Position.
 * [Physics and Math Notes 1-2](./physics_and_math/lao-1-2-pm.pdf): Position from Velocity. Indices. Summations. Relationship to Derivatives and Integrals.
 * [Physics and Math Notes 1-3](./physics_and_math/lao-1-3-pm.pdf): Physics Laws. Acceleration. Newton's Three Laws. Units of Acceleration. Constant Acceleration.
 * [Physics and Math Notes 1-4](./physics_and_math/lao-1-4-pm.pdf): Air Glider on Spring Demonstration. Amplitude. Period. Frequency. Spring Constant. Mass. Sign of Acceleration. Comparing Position, Velocity, and Acceleration Graphs. Adding Damping to Air Glider. Adding Wind Resistance to Drag Racer.
@@ -53,8 +53,8 @@
 #### Week 1 Computer Science
 
 * [Computer Science Notes 1-1](./computer_science/lao-1-1-cs.pdf): Markdown. Statements. Expressions. Variables and Assignments. Types.
-* [Computer Science Notes 1-2](./computer_science/lao-1-2-cs.pdf): Comparisons. While Loops. Lists. Lists vs. Arrays.
-* [Computer Science Notes 1-3](./computer_science/lao-1-3-cs.pdf): Tuples. Unpacking Tuples. Ranges. For Loops. Compare and Contrast Lists, Tuples, and Ranges.
+* [Computer Science Notes 1-2](./computer_science/lao-1-2-cs.pdf): Comparisons; While Loops; Lists; Lists vs. Arrays.
+* [Computer Science Notes 1-3](./computer_science/lao-1-3-cs.pdf): Tuples; Unpacking Tuples; Ranges; For Loops; Compare and Contrast Lists, Tuples, and Ranges.
 * [Computer Science Notes 1-4](./computer_science/lao-1-4-cs.pdf): Introduce Function Definitions (Power-of-Two Implementation), Function Usage (Call Sites), Scope of Variables. Lifetime of Variables. Pass-by-Value Example (Alternate Power-of-Two Implementation). Pass-by-Reference Example (Add-to-Roster).<sup>[1](#footnote1)</sup>
 
 #### Week 1 Python Coding Lab
@@ -68,15 +68,22 @@
 
 #### Week 2 Physics &amp; Math
 
+* LINK DOESN'T YET WORK [Physics and Math Notes 2-1](./physics_and_math/lao-2-1-pm.pdf): Position, Velocity, and Acceleration in 2-D; Similar Triangles; Trig Functions to get Components of Vectors from Lengths and Angles.
+* LINK DOESN'T YET WORK [Physics and Math Notes 2-2](./physics_and_math/lao-2-2-pm.pdf): Getting Lengths and Angles from Component of Vecctors; Air Resistance (Drag) in 2-D.
+
 #### Week 2 Worksheets and Homework
-	
+
+* LINK DOESN'T YET WORK [Homework 2 (2020-01-14)](./homework/lao-hw2.pdf)
+
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
+* LINK DOESN'T YET WORK [Computer Science Notes 2-2](./computer_science/lao-2-2-cs.pdf): Import Statments, Stack Traces.
 
 #### Week 2 Python Coding Lab
 	
 * Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to your machine per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
+* Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance
 
 ### Week 3 Daily Schedule
 
