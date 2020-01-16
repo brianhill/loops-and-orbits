@@ -73,16 +73,19 @@
 
 * Physics and Math 2-1: Lengths; Angles; Position, Velocity, and Acceleration in 2-D; Similar Triangles; Getting Components of Vectors from Lengths and Angles; Newton's Laws in 2-D, Vector Form, Component Form.
 * Physics and Math 2-2: Getting Lengths and Angles from Components of Vectors; Air Resistance in 2-D. Rocket Thrust in 2-D.
+* Physics and Math 2-3: Newton's Universal Theory of Gravitation.
 
 #### Week 2 Computer Science
 
 * [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf): Using Jupyter on the lab iMacs.
 * Computer Science 2-2: If Statements and Variants, If/Else, If/Elif, and If/Elif/Else; Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
+* Computer Science 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html)
 
 #### Week 2 Python Coding Lab
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to your machine per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
+* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to the lab machine per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 * Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance
+* Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon
 
 #### Week 2 Homework
 
