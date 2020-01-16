@@ -2,7 +2,7 @@
 
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
 * [Weekly Schedule](#weekly-schedule)
-* Daily Schedule
+* Daily Schedules by Week
   * [Week 1 Daily Schedule](#week-1-daily-schedule)
   * [Week 2 Daily Schedule](#week-2-daily-schedule)
   * [Week 3 Daily Schedule](#week-3-daily-schedule)
