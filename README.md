@@ -17,20 +17,17 @@
 
 ### Week 2
 
-* Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Circular Motion. Two-Dimensional Acceleration.
-* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Packages. Objects. Methods. Graphics. Version Control.
+* Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Two-Dimensional Acceleration. Newton's Universal Theory of Gravitation
+* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging.
 
 ### Week 3
 
-* Physics &amp; Math: The Problem of Motion in Two-Dimensions in Newton's Universal Theory of Gravitation (Circular and Elliptical Orbits).
-* Applications: Selection and Formulation of Final Project.
-* Computer Science: Testing. Capturing Input from Files or from Users.
+* Physics, Math & Applications: Circular and Elliptical Orbits. Models of Solar Panel Charging, Population Growth, Economic Growth.
+* Computer Science: Numpy. Runge-Kutta and other Improvememts to Euler and Euler-Cromer Update Methods. Objects, Instance Variables, and Methods.
 	
 ### Week 4
 
-* Physics &amp; Math: Rockets Burns.
-* Applications: Implementation and Presentation of Final Project.
-* Computer Science: Display of Program Output.
+* Final Project: Planning, Selection, Work, and Presentations.
 
 ## Daily Schedule
 
@@ -74,42 +71,66 @@
 * Physics and Math Day 2-1: Lengths; Angles; Position, Velocity, and Acceleration in 2-D; Similar Triangles; Getting Components of Vectors from Lengths and Angles; Newton's Laws in 2-D, Vector Form, Component Form.
 * Physics and Math Day 2-2: Getting Lengths and Angles from Components of Vectors; Air Resistance in 2-D. Rocket Thrust in 2-D.
 * Physics and Math Day 2-3: Newton's Universal Theory of Gravitation.
+* Physics and Math Day 2-4: Midterm at this time.
 
 #### Week 2 Computer Science
 
 * Computer Science Day 2-1: [Using Jupyter locally](./computer_science/lao-2-1-cs.pdf) on the lab iMacs; If Statements and Variants, If/Else, If/Elif, and If/Elif/Else.
 * Computer Science Day 2-2: Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
 * Computer Science Day 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html))
+* Computer Science Day 2-4: Matrices and the numpy library.
 
 #### Week 2 Python Coding Lab
 	
 * Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to a lab iMac per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf))
 * Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance
 * Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon
+* Jupyter [Notebook 2-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-4.ipynb): Capacitor Charging with Numpy.
 
 #### Week 2 Homework
 
-* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Turning the baseball notebook into a rocket! Replacing drag with thrust.
+* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Turning the Baseball into a Rocket. Replacing Drag with Thrust.
+* [Homework 3 (assigned 2020-01-17, due 2012-01-21)](./homework/lao-hw2.pdf) Exponential Population Growth with Numpy.
 
 ### Week 3 Daily Schedule
 
-#### Week 3 Physics &amp; Math
+#### Week 3 Physics, Math & Economics
 
-#### Week 3 Worksheets and Homework
-	
+* Physics &amp; Math Day 3-1: Circular and Elliptical Orbits.
+* Special Economics Day 3-2 with Prof. Margitay-Becht: Harrod-Domar Economic Growth Model.
+* Physics &amp; Math Day 3-3: Transfer Orbits.
+
+#### Week 3 Homework
+
+* Homework 4.
+
 #### Week 3 Computer Science
+
+* Computer Science Day 3-1: Improving on the Euler and Euler-Cromer Update Methods.
+* Computer Science Day 3-2 with Prof. Margitay-Becht.
+* Compoter Science Day 3-3: Objects and Methods.
 
 #### Week 3 Python Coding Lab
 
+* Jupyter Notebook 3-1: Circular and Elliptical Orbits from Newton's Cannon.
+* Jupyter Notebook 3-2 with Prof. Margitay-Becht: Economic Growth.
+* Jupyter Notebook 3-3: Transfer Orbits and Rocket Burns.
+
+#### Week 3 Final Project Planning and Selection
+
+* Final Project Planning and Selection Day 3-4.
+
 ### Week 4 Daily Schedule
 
-#### Week 4 Physics &amp; Math
+#### Week 4 Final Project Work
 
-#### Week 4 Worksheets and Homework
-	
-#### Week 4 Computer Science
+* Final Project Work Day 4-1.
+* Final Project Work Day 4-2.
 
-#### Week 4 Python Coding Lab
+#### Week 4 Final Project Presentations
+
+* Final Project Presentations Day 4-3.
+* Final Project Presentations Day 4-4.
 
 ### Footnotes
 
