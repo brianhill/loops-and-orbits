@@ -78,7 +78,7 @@
 * Computer Science Day 2-1: [Using Jupyter locally](./computer_science/lao-2-1-cs.pdf) on the lab iMacs; If Statements and Variants, If/Else, If/Elif, and If/Elif/Else.
 * Computer Science Day 2-2: Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
 * Computer Science Day 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html))
-* Computer Science Day 2-4: Matrices and the numpy library.
+* Computer Science Day 2-4: Matrices and the numpy library. Objects. Methods. Libraries. Library Functions.
 
 #### Week 2 Python Coding Lab
 	
@@ -89,30 +89,30 @@
 
 #### Week 2 Homework
 
-* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Turning the Baseball into a Rocket. Replacing Drag with Thrust.
-* [Homework 3 (assigned 2020-01-17, due 2012-01-21)](./homework/lao-hw3.pdf) Exponential Population Growth with Numpy.
+* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf): Turning the Baseball into a Rocket. Replacing Drag with Thrust.
 
 ### Week 3 Daily Schedule
 
 #### Week 3 Physics, Math & Economics
 
-* Physics &amp; Math Day 3-1: Circular and Elliptical Orbits.
+* Physics &amp; Math Day 3-1: First Order Differenential Equations.
 * Special Economics Day 3-2 with Prof. Margitay-Becht: Harrod-Domar Economic Growth Model.
 * Physics &amp; Math Day 3-3: Transfer Orbits.
 
 #### Week 3 Homework
 
+* Homework 3 (not yet assigned): Exponential Growth and Decay with Numpy.
 * Homework 4.
 
 #### Week 3 Computer Science
 
-* Computer Science Day 3-1: Improving on the Euler and Euler-Cromer Update Methods.
+* Computer Science Day 3-1: TBD.
 * Computer Science Day 3-2 with Prof. Margitay-Becht.
-* Compoter Science Day 3-3: Objects and Methods.
+* Compoter Science Day 3-3: Improving on the Euler and Euler-Cromer Update Methods.
 
 #### Week 3 Python Coding Lab
 
-* Jupyter Notebook 3-1: Circular and Elliptical Orbits from Newton's Cannon.
+* Jupyter Notebook 3-1: Applications to Biology and Finance.
 * Jupyter Notebook 3-2 with Prof. Margitay-Becht: Economic Growth.
 * Jupyter Notebook 3-3: Transfer Orbits and Rocket Burns.
 
