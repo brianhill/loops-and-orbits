@@ -90,7 +90,7 @@
 #### Week 2 Homework
 
 * [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf) Turning the Baseball into a Rocket. Replacing Drag with Thrust.
-* [Homework 3 (assigned 2020-01-17, due 2012-01-21)](./homework/lao-hw2.pdf) Exponential Population Growth with Numpy.
+* [Homework 3 (assigned 2020-01-17, due 2012-01-21)](./homework/lao-hw3.pdf) Exponential Population Growth with Numpy.
 
 ### Week 3 Daily Schedule
 
