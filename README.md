@@ -113,7 +113,7 @@
 
 #### Week 3 Homework
 
-* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)]((./homework/lao-hw3.pdf)): Exponential Decay &mdash; Charging a Capacitor.
+* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)](./homework/lao-hw3.pdf): Exponential Decay &mdash; Charging a Capacitor.
 
 #### Week 3 Final Project Planning and Selection
 
@@ -134,7 +134,7 @@
 
 #### Week 4 Homework
 
-* [Homework 4 (Assigned 2020-01-22, due 2020-01-27)]((./homework/lao-hw4.pdf)): Correct Missed Problems on Midterm.
+* [Homework 4 (Assigned 2020-01-22, due 2020-01-27)](./homework/lao-hw4.pdf): Correct Missed Problems on Midterm.
 
 ### Footnotes
 

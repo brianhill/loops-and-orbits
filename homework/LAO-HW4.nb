@@ -1,0 +1,221 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9142,        213]
+NotebookOptionsPosition[      7515,        173]
+NotebookOutlinePosition[      7908,        190]
+CellTagsIndexPosition[      7865,        187]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Loops & Orbits \[LongDash] Directions for HW 4", "Chapter",
+ CellChangeTimes->{{3.788227213929903*^9, 3.788227227878837*^9}, {
+  3.7882272836343193`*^9, 3.788227288494454*^9}, {3.788688550979989*^9, 
+  3.788688556242757*^9}},ExpressionUUID->"c351b2ef-29d5-4296-bd28-\
+b5162b399776"],
+
+Cell[TextData[{
+ StyleBox["Due Monday, Jan. 27, 2020, at end of office hours\n\n",
+  FontSize->18],
+ StyleBox["For the problems you missed on the midterm, ",
+  FontSize->18,
+  FontWeight->"Bold"],
+ StyleBox["do the following:\n\n* Figure out the right answer.\n* On a \
+separate sheet of paper from your midterm, explain why you now choose that \
+answer.\n* Staple and turn in your correct answers with explanations.\n\nFor \
+each corrected answer, I will curve your midterm up by a half-point. So if \
+you had 9/15 you can get six half-points, which brings your midterm up to a \
+more solid 12/15.\n\nAdditional directions for specific problems are below.",
+  FontSize->18]
+}], "Subtitle",
+ CellChangeTimes->{{3.788227252484098*^9, 3.7882272588617268`*^9}, {
+  3.788239468469728*^9, 3.788239661118034*^9}, {3.788239691707176*^9, 
+  3.7882397203164043`*^9}, {3.7882405340443573`*^9, 3.78824053538155*^9}, {
+  3.7882405986543007`*^9, 3.7882406051782017`*^9}, {3.788242030702979*^9, 
+  3.788242031162929*^9}, {3.788688559257944*^9, 3.7886888461731358`*^9}, {
+  3.788689284554735*^9, 3.7886892905963497`*^9}},
+ FontSize->16,ExpressionUUID->"6c91da8e-1458-4db1-8a35-316e2d18eeec"],
+
+Cell[CellGroupData[{
+
+Cell["Part I \[LongDash] Physics & Math", "Section",
+ CellChangeTimes->{{3.7882272733187943`*^9, 
+  3.7882272811373997`*^9}},ExpressionUUID->"506c2938-dd51-4e47-9121-\
+d26f76c77fdb"],
+
+Cell[CellGroupData[{
+
+Cell["3. Baseball with Drag", "Subsection",
+ CellChangeTimes->{{3.788227311265313*^9, 3.788227312783168*^9}, {
+  3.7882277954781733`*^9, 3.78822779899774*^9}, {3.788228909469193*^9, 
+  3.788228920336019*^9}},ExpressionUUID->"08841319-c94b-4a7f-953b-\
+f4481315c009"],
+
+Cell["\<\
+Many people missed this. Remember that drag is in the *opposite* direction \
+from velocity. How does that change the right anser.\
+\>", "Text",
+ CellChangeTimes->{{3.788227329636806*^9, 3.788227406182423*^9}, {
+  3.788227496040165*^9, 3.78822771962014*^9}, {3.7882277629100523`*^9, 
+  3.788228106124333*^9}, {3.788228265354649*^9, 3.788228288545906*^9}, {
+  3.7882289487666473`*^9, 3.788229524398643*^9}, {3.7886888655238667`*^9, 
+  3.788688886470368*^9}},ExpressionUUID->"33040ec3-7d81-472f-b220-\
+a5c4c9448f21"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Part II \[LongDash] Computer Science", "Section",
+ CellChangeTimes->{{3.7882272733187943`*^9, 3.7882272811373997`*^9}, {
+  3.7882303545345984`*^9, 
+  3.788230359990675*^9}},ExpressionUUID->"8d8f95d1-338f-4db1-b41a-\
+af8caff518b4"],
+
+Cell[CellGroupData[{
+
+Cell["8. Pass-by-Reference and Pass-by-Value", "Subsection",
+ CellChangeTimes->{{3.788227311265313*^9, 3.788227312783168*^9}, {
+  3.7882277954781733`*^9, 3.78822779899774*^9}, {3.788228909469193*^9, 
+  3.788228920336019*^9}, {3.7882295358167257`*^9, 3.788229564943174*^9}, {
+  3.7882300663102703`*^9, 3.788230074387105*^9}, {3.788230418765666*^9, 
+  3.788230461211516*^9}, {3.7882304914182377`*^9, 3.7882305007333107`*^9}, {
+  3.7882306666632137`*^9, 3.788230670464587*^9}, {3.788230747686038*^9, 
+  3.788230771490759*^9}, {3.788230872910673*^9, 3.788230874608604*^9}, {
+  3.788230990002819*^9, 3.788230999812109*^9}, {3.788236517094385*^9, 
+  3.788236522573297*^9}},ExpressionUUID->"79d568b7-2ffa-40fd-a3c7-\
+c7e9cf879dc3"],
+
+Cell["\<\
+Many people missed this. Study problem 12 to help you get the correct answer.\
+\
+\>", "Text",
+ CellChangeTimes->{{3.788230464586608*^9, 3.788230469727957*^9}, {
+  3.788230505335161*^9, 3.7882307184011517`*^9}, {3.788230776170804*^9, 
+  3.788230793541235*^9}, {3.788230862516753*^9, 3.788230952606942*^9}, {
+  3.788231003940978*^9, 3.788231038264933*^9}, {3.7882311113799953`*^9, 
+  3.788231152184963*^9}, {3.788235970852049*^9, 3.788235971256731*^9}, {
+  3.78823602404633*^9, 3.788236061820622*^9}, {3.788236659466468*^9, 
+  3.78823673449393*^9}, {3.7886889900410624`*^9, 
+  3.788689067722542*^9}},ExpressionUUID->"1fd98fb5-23e4-4506-8b01-\
+9cbf6ba9a6bb"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["9. Functions and Scoping", "Subsection",
+ CellChangeTimes->{{3.788227311265313*^9, 3.788227312783168*^9}, {
+  3.7882277954781733`*^9, 3.78822779899774*^9}, {3.788228909469193*^9, 
+  3.788228920336019*^9}, {3.7882295358167257`*^9, 3.788229564943174*^9}, {
+  3.7882300663102703`*^9, 3.788230074387105*^9}, {3.788230418765666*^9, 
+  3.788230461211516*^9}, {3.7882304914182377`*^9, 3.7882305007333107`*^9}, {
+  3.7882306666632137`*^9, 3.788230670464587*^9}, {3.788230747686038*^9, 
+  3.788230771490759*^9}, {3.788230872910673*^9, 3.788230874608604*^9}, {
+  3.788230990002819*^9, 3.788230999812109*^9}, {3.788236089260789*^9, 
+  3.788236089462865*^9}, {3.788236215297168*^9, 3.7882362159490147`*^9}, {
+  3.7882362504093237`*^9, 
+  3.788236266901784*^9}},ExpressionUUID->"110a219b-fb6e-407a-ae3c-\
+c838cd28745f"],
+
+Cell["\<\
+Study problem 15 to help you get the correct answer. What is happening to \
+my_total?\
+\>", "Text",
+ CellChangeTimes->{{3.788230464586608*^9, 3.788230469727957*^9}, {
+  3.788230505335161*^9, 3.7882307184011517`*^9}, {3.788230776170804*^9, 
+  3.788230793541235*^9}, {3.788230862516753*^9, 3.788230952606942*^9}, {
+  3.788231003940978*^9, 3.788231038264933*^9}, {3.7882311113799953`*^9, 
+  3.788231152184963*^9}, {3.788235970852049*^9, 3.788235971256731*^9}, {
+  3.78823602404633*^9, 3.788236061820622*^9}, {3.788236269826715*^9, 
+  3.788236501333537*^9}, {3.788689136175116*^9, 
+  3.788689159575082*^9}},ExpressionUUID->"f408bf58-1de5-419c-8ce5-\
+60a48e48e0bf"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Part III \[LongDash] Coding", "Section",
+ CellChangeTimes->{{3.7882272733187943`*^9, 3.7882272811373997`*^9}, {
+  3.7882303545345984`*^9, 3.788230359990675*^9}, {3.788237052950001*^9, 
+  3.78823706300695*^9}},ExpressionUUID->"09f0ef4f-ee1f-473a-8702-\
+62bfff1e9f69"],
+
+Cell["\<\
+11-15. For these, start Jupyter, type in the code. Report what happens.\
+\>", "Subsection",
+ CellChangeTimes->{{3.788227311265313*^9, 3.788227312783168*^9}, {
+  3.7882277954781733`*^9, 3.78822779899774*^9}, {3.788228909469193*^9, 
+  3.788228920336019*^9}, {3.7882295358167257`*^9, 3.788229564943174*^9}, {
+  3.7882300663102703`*^9, 3.788230074387105*^9}, {3.788230418765666*^9, 
+  3.788230461211516*^9}, {3.7882304914182377`*^9, 3.7882305007333107`*^9}, {
+  3.7882306666632137`*^9, 3.788230670464587*^9}, {3.788230747686038*^9, 
+  3.788230771490759*^9}, {3.788230872910673*^9, 3.788230874608604*^9}, {
+  3.788230990002819*^9, 3.788230999812109*^9}, {3.788236517094385*^9, 
+  3.788236522573297*^9}, {3.7886892054097958`*^9, 3.788689226120563*^9}, {
+  3.7886893239764967`*^9, 
+  3.7886893878650827`*^9}},ExpressionUUID->"9c919296-804a-42a9-a871-\
+486a1391d34f"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 626}, {Automatic, 216}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 288, 4, 86, "Chapter",ExpressionUUID->"c351b2ef-29d5-4296-bd28-b5162b399776"],
+Cell[871, 28, 1176, 20, 465, "Subtitle",ExpressionUUID->"6c91da8e-1458-4db1-8a35-316e2d18eeec"],
+Cell[CellGroupData[{
+Cell[2072, 52, 182, 3, 84, "Section",ExpressionUUID->"506c2938-dd51-4e47-9121-d26f76c77fdb"],
+Cell[CellGroupData[{
+Cell[2279, 59, 265, 4, 67, "Subsection",ExpressionUUID->"08841319-c94b-4a7f-953b-f4481315c009"],
+Cell[2547, 65, 523, 9, 73, "Text",ExpressionUUID->"33040ec3-7d81-472f-b220-a5c4c9448f21"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3119, 80, 236, 4, 84, "Section",ExpressionUUID->"8d8f95d1-338f-4db1-b41a-af8caff518b4"],
+Cell[CellGroupData[{
+Cell[3380, 88, 724, 10, 67, "Subsection",ExpressionUUID->"79d568b7-2ffa-40fd-a3c7-c7e9cf879dc3"],
+Cell[4107, 100, 665, 12, 44, "Text",ExpressionUUID->"1fd98fb5-23e4-4506-8b01-9cbf6ba9a6bb"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4809, 117, 812, 12, 67, "Subsection",ExpressionUUID->"110a219b-fb6e-407a-ae3c-c838cd28745f"],
+Cell[5624, 131, 670, 12, 73, "Text",ExpressionUUID->"f408bf58-1de5-419c-8ce5-60a48e48e0bf"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6343, 149, 272, 4, 84, "Section",ExpressionUUID->"09f0ef4f-ee1f-473a-8702-62bfff1e9f69"],
+Cell[6618, 155, 869, 14, 101, "Subsection",ExpressionUUID->"9c919296-804a-42a9-a871-486a1391d34f"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
