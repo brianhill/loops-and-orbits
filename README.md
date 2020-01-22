@@ -93,28 +93,27 @@
 
 ### Week 3 Daily Schedule
 
-#### Week 3 Physics, Math & Economics
+#### Week 3 Physics, Math &amp; Applications
 
-* Physics &amp; Math Day 3-1: First Order Differenential Equations.
-* Special Economics Day 3-2 with Prof. Margitay-Becht: Harrod-Domar Economic Growth Model.
-* Physics &amp; Math Day 3-3: Transfer Orbits.
-
-#### Week 3 Homework
-
-* Homework 3 (not yet assigned): Exponential Growth and Decay with Numpy.
-* Homework 4.
+* Physics &amp; Math Day 3-1: First Order Differenential Equations. Charging a Battery. Charging a Capacitor (see Homework 3). Viral Exponential Growth.
+* Special Economics Day 3-2 with Prof. Margitay-Becht: Solow-Swan Economic Growth Model.
+* Physics &amp; Math Day 3-3: Elliptical Orbits. Kepler's Laws.
 
 #### Week 3 Computer Science
 
-* Computer Science Day 3-1: TBD.
-* Computer Science Day 3-2 with Prof. Margitay-Becht.
+* Computer Science Day 3-1: Mutability, Assignment, and Performance of Python Lists and Numpy Arrays.
+* Computer Science Day 3-2 with Prof. Margitay-Becht: Data Visualization.
 * Compoter Science Day 3-3: Improving on the Euler and Euler-Cromer Update Methods.
 
 #### Week 3 Python Coding Lab
 
-* Jupyter Notebook 3-1: Applications to Biology and Finance.
-* Jupyter Notebook 3-2 with Prof. Margitay-Becht: Economic Growth.
-* Jupyter Notebook 3-3: Transfer Orbits and Rocket Burns.
+* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charing.
+* Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model.
+* Jupyter Notebook 3-3: Elliptical Orbits.
+
+#### Week 3 Homework
+
+* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)]((./homework/lao-hw3.pdf)): Exponential Decay &mdash; Charging a Capacitor.
 
 #### Week 3 Final Project Planning and Selection
 
@@ -122,15 +121,20 @@
 
 ### Week 4 Daily Schedule
 
-#### Week 4 Final Project Work
+#### Week 4 Final Project Preparation
 
-* Final Project Work Day 4-1.
-* Final Project Work Day 4-2.
+* Final Project Preparation Day 4-1. Class-time devoted to Preparing Final Projects.
+* Final Project Preparation Day 4-2. Class-time devoted to Preparing Final Projects
+* Final Project Preparation Day 4-3. 2/3 of Class time devoted to Preparing Final Projects. Remainder for two presentations.
 
 #### Week 4 Final Project Presentations
 
-* Final Project Presentations Day 4-3.
-* Final Project Presentations Day 4-4.
+* Final Project Presentations Day 4-3. Two Presentations in Final 1/3 of Class.
+* Final Project Presentations Day 4-4. Remaining Seven Presentations. Course Feedback.
+
+#### Week 4 Homework
+
+* [Homework 4 (Assigned 2020-01-22, due 2020-01-27)]((./homework/lao-hw4.pdf)): Correct Missed Problems on Midterm.
 
 ### Footnotes
 
