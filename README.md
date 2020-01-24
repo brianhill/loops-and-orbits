@@ -98,18 +98,21 @@
 * Physics &amp; Math Day 3-1: First Order Differenential Equations. Charging a Battery. Charging a Capacitor (see Homework 3). Viral Exponential Growth.
 * Special Economics Day 3-2 with Prof. Margitay-Becht: Solow-Swan Economic Growth Model.
 * Physics &amp; Math Day 3-3: Elliptical Orbits. Kepler's Laws.
+* Physics &amp; Math Day 3-4: Transfer Orbits. Energy Conservation.
 
 #### Week 3 Computer Science
 
 * Computer Science Day 3-1: Mutability, Assignment, and Performance of Python Lists and Numpy Arrays.
 * Computer Science Day 3-2 with Prof. Margitay-Becht: Data Visualization.
 * Compoter Science Day 3-3: Improving on the Euler and Euler-Cromer Update Methods.
+* Compoter Science Day 3-4: Pandas.
 
 #### Week 3 Python Coding Lab
 
 * Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charing.
 * Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model.
-* Jupyter Notebook 3-3: Elliptical Orbits.
+* Jupyter [Notebook 3-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta.
+* Jupyter [Notebook 3-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas.
 
 #### Week 3 Homework
 
@@ -117,20 +120,16 @@
 
 #### Week 3 Final Project Planning and Selection
 
-* Final Project Planning and Selection Day 3-4.
+* Start Final Project Planning on Day 3-4.
 
 ### Week 4 Daily Schedule
 
-#### Week 4 Final Project Preparation
+#### Week 4 Final Project Schedule
 
-* Final Project Preparation Day 4-1. Class-time devoted to Preparing Final Projects.
-* Final Project Preparation Day 4-2. Class-time devoted to Preparing Final Projects
-* Final Project Preparation Day 4-3. 2/3 of Class time devoted to Preparing Final Projects. Remainder for two presentations.
-
-#### Week 4 Final Project Presentations
-
-* Final Project Presentations Day 4-3. Two Presentations in Final 1/3 of Class.
-* Final Project Presentations Day 4-4. Remaining Seven Presentations. Course Feedback.
+* Final Project Preparation Day 4-1. Class-time devoted to Preparing Final Projects. Short Progress Presentations.
+* Final Project Preparation Day 4-2. Class-time devoted to Preparing Final Projects. Short Progress Presentations.
+* Final Project Preparation and Presentations Day 4-3. 2/3 of Class time devoted to Preparing Final Projects. 1/3 devoted to Final Presentations begin.
+* Final Project Presentations Day 4-4. Final Presentations end.
 
 #### Week 4 Homework
 
