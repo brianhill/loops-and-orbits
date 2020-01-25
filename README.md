@@ -125,6 +125,10 @@
 
 ### Week 4 Daily Schedule
 
+#### Teams
+
+* [Final Project Teams](./final_projects/teams.md)
+
 #### Week 4 Final Project Schedule
 
 * Final Project Preparation Day 4-1: Class-time devoted to Preparing Final Projects. Short Progress Presentations.
