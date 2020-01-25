@@ -7,6 +7,7 @@
   * [Week 2 Daily Schedule](#week-2-daily-schedule)
   * [Week 3 Daily Schedule](#week-3-daily-schedule)
   * [Week 4 Daily Schedule](#week-4-daily-schedule)
+* [Final Projects](./final_projects/teams.md)
 
 ## Weekly Schedule
 
