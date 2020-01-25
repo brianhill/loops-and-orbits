@@ -18,12 +18,12 @@
 ### Week 2
 
 * Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Two-Dimensional Acceleration. Newton's Universal Theory of Gravitation
-* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging.
+* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging. Dot Notation for Library Functions and Object Methods.
 
 ### Week 3
 
-* Physics, Math & Applications: Circular and Elliptical Orbits. Models of Solar Panel Charging, Population Growth, Economic Growth.
-* Computer Science: Numpy. Runge-Kutta and other Improvememts to Euler and Euler-Cromer Update Methods. Objects, Instance Variables, and Methods.
+* Physics, Math & Applications: Circular and Elliptical Orbits. Modeling Battery Charging. Modeling Economic Growth. Kepler's Laws. Energy Conservation.
+* Computer Science: Numpy. Mutability, Assignment, and Performance of Python Lists and Numpy Arrays. Second Order Runge-Kutta and Midpoint Method Improvememts to Euler and Euler-Cromer Update Methods. Data Visualization with Pandas.
 	
 ### Week 4
 
@@ -103,9 +103,9 @@
 #### Week 3 Computer Science
 
 * Computer Science Day 3-1: Mutability, Assignment, and Performance of Python Lists and Numpy Arrays.
-* Computer Science Day 3-2 with Prof. Margitay-Becht: Data Visualization.
-* Compoter Science Day 3-3: Improving on the Euler and Euler-Cromer Update Methods.
-* Compoter Science Day 3-4: Pandas.
+* Computer Science Day 3-2 with Prof. Margitay-Becht: Multi-Function Plots.
+* Computer Science Day 3-3: Improving on the Euler and Euler-Cromer Update Methods with 2nd Order Runge Kutta.
+* Computer Science Day 3-4: Data Visualization with Pandas.
 
 #### Week 3 Python Coding Lab
 
@@ -126,10 +126,10 @@
 
 #### Week 4 Final Project Schedule
 
-* Final Project Preparation Day 4-1. Class-time devoted to Preparing Final Projects. Short Progress Presentations.
-* Final Project Preparation Day 4-2. Class-time devoted to Preparing Final Projects. Short Progress Presentations.
-* Final Project Preparation and Presentations Day 4-3. 2/3 of Class time devoted to Preparing Final Projects. 1/3 devoted to Final Presentations begin.
-* Final Project Presentations Day 4-4. Final Presentations end.
+* Final Project Preparation Day 4-1: Class-time devoted to Preparing Final Projects. Short Progress Presentations.
+* Final Project Preparation Day 4-2: Class-time devoted to Preparing Final Projects. Short Progress Presentations.
+* Final Project Preparation and Presentations Day 4-3: 2/3 of Class time devoted to Preparing Final Projects. 1/3 devoted to Final Presentations begin.
+* Final Project Presentations Day 4-4: Final Presentations end.
 
 #### Week 4 Homework
 
