@@ -2,6 +2,11 @@
 
 ![Teams at Work](./TeamsAtWork-2020-01-27.jpeg)
 
+## Links
+
+* Jump to [Final Projects Plan](./plan.md)
+* Return to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+
 ## *Three Presentations Starting 11:00 on Thursday*
 
 ## Gaby and Andy &mdash; Tennis Ball Forehand Topspin
@@ -122,8 +127,3 @@ Brian suggests getting started by slingshotting off of Venus. That was actually 
 
 
 ### Kevin Standup 2
-
-## Links
-
-* Jump to [Final Projects Plan](./plan.md)
-* Return to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
