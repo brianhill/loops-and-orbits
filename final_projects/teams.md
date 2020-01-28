@@ -4,7 +4,7 @@
 
 ## *Three Presentations Starting 11:00 on Thursday*
 
-## Gaby and Andy &mdash; Tennis Ball Topspin in A Forehand Shot
+## Gaby and Andy &mdash; Tennis Ball Forehand Topspin
 
 Forehand spin &mdash; topspin &mdash; of a tennis ball. Reference: Cross and Lindsey, "Measurements of drag and lift on tennis balls in flight," Sports Engineering (2014) **17**, 89-96.
 
@@ -48,7 +48,7 @@ First steps will be to code up the alternating current function.
 
 ### Hunter Standup 2
 
-## Cindy with Kyle &mdash; Model of Depression and Anxiety in a Student Population
+## Cindy with Kyle &mdash; Model of Depression and Anxiety
 
 Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
 
@@ -58,7 +58,7 @@ Uncertainties: How to model? How many students are important? Consult with Kyle.
 
 ### Cindy Standup 2
 
-## Venessa and Jack &mdash; Basketball Swish and Backboard Shots
+## Venessa and Jack &mdash; Basketball Trajectories (3-Pointers!?)
 
 Our plan is to map out the path of a basketball. Focusing on the range of initial conditions which are mostly to result in a basket. Reflection off of the backboard.
 
@@ -91,7 +91,7 @@ Uncertainties: how to show the graphs. Finding the area for a non-right triangle
 
 ### Matt and Nicolo Standup 2
 
-## Ryan and Ronnie &mdash; Lift and a Golf Ball's Flight
+## Ryan and Ronnie &mdash; Lift on a Golf Ball During Flight
 
 We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
 
