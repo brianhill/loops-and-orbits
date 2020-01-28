@@ -7,7 +7,9 @@
   * [Week 2 Daily Schedule](#week-2-daily-schedule)
   * [Week 3 Daily Schedule](#week-3-daily-schedule)
   * [Week 4 Daily Schedule](#week-4-daily-schedule)
-* [Final Projects](./final_projects/teams.md)
+* Final Projects
+  * [Plan](./final_projects/plan.md)
+  * [Teams](./final_projects/teams.md)
 
 ## Weekly Schedule
 
@@ -85,7 +87,7 @@
 	
 * Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to a lab iMac per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf)) ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1-solved.ipynb)).
 * Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2-solved.ipynb)).
-* Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon &mdash; Introducting `unittest` ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3-solved.ipynb)).
+* Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon &mdash; Introducing `unittest` ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3-solved.ipynb)).
 * Jupyter [Notebook 2-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-4.ipynb): Introduction to Numpy. 
 
 #### Week 2 Homework
@@ -124,6 +126,10 @@
 * Start Final Project Planning on Day 3-4.
 
 ### Week 4 Daily Schedule
+
+#### Plan
+
+* [Final Project Plan](./final_projects/plan.md)
 
 #### Teams
 

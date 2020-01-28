@@ -3,12 +3,13 @@
 * Jump to [Final Projects Plan](./plan.md)
 * Return to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
 
+![Teams at Work](./TeamsAtWork-2020-01-27.jpeg)
+
 ## Gaby and Andy
 
 Forehand spin &mdash; topspin &mdash; of a tennis ball. Reference: Cross and Lindsey, "Measurements of drag and lift on tennis balls in flight," Sports Engineering (2014) **17**, 89-96.
 
 ### Notes on Standup 1
-
 
 Going to add lift force to a tennis ball. Uncertainties: don't know how to get the lift coefficient as a function of spin.
 
