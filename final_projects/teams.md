@@ -70,7 +70,7 @@ Will get started the baseball. Add reflection off backboard?!? Draw a hoop and b
 
 ### Venessa and Jack Standup 2
 
-## Mackade &mdash; Adding Realism to the Solow-Swan Model
+## Mackade &mdash; Adding Realism to Solow-Swan
 
 Extending the Solow-Swan economic model.
 
