@@ -11,26 +11,43 @@ We will have standups on Monday and Tuesday. Standups are designed to help every
 
 ## Schedule / Goals / Rubric
 
-![Board Notes](./FinalProjectSchedule.jpeg)
+![Board Notes](./BoardNotes.jpeg)
 
 ### Goals for First Standup
 
 1. Explain your topic in terms the rest of the class can understand.
 2. Explain your uncertainties in your choice of topic and how to proceed.
-3. Give a forward-looking status: principally, what do you plan to do between now and the next standup (or the final presentation)?
-4. Is there any way in which you are blocked and can use help from your classmates in getting unblocked.
+3. Give a forward-looking status: principally, what do you plan to do between now and the next standup.
+4. Is there any way in which you are blocked and can use help from your classmates in getting unblocked?
 5. If you are blocked, remember, no step is to small to get unblocked. Google the topic. Figure out which notebook you have already studied is the closest. Identify constants that go into the model. Etc.
 
 ### Goals for Second Standup
 
 1. Remind people of your topic.
-2. Explain where you currently are on working on your topic. The explanation is just enough so that people can understand what you are trying next.
-3. Give a forward-looking status: principally, what do you plan to do between now and the next standup (or the final presentation)?
+2. Explain where you currently are on your topic. The explanation should be just enough so that people can understand what you are going to try next.
+3. Give a forward-looking status: principally, what do you plan to do between now and the final presentation?
 4. Explain uncertainties in your plan for how to proceed.
-5. Highlight any ways in which you feel you are blocked and can use help from the professor, the teaching assistants and your classmates in getting unblocked.
+5. Highlight any ways in which you feel you are blocked and can use help from the professor, the teaching assistants, or your classmates in getting unblocked.
 
 ### Goals/Plan for Final Presentation
 
 If you are presenting on Thursday, email me your notebook during the middle of Thursday's class. I will load all of them up on my laptop so that you can step through and show it on the front screen using AirPlay.
 
+Thursday presenters:
+
+* Gaby/Andy
+* Laura/Valentin
+* Nancy/Ausmitha
+
 If you are presenting on Friday, email me your notebook at the end of day on Thursday. We will start Friday's class right away with presentations.
+
+Friday presenters:
+
+* Hunter
+* Cindy (with Kyle?)
+* Venessa/Jack
+* Mackade
+* Matt/Nicolo
+* Ryan/Ronnie
+* Peter/Theo
+* Kevin
