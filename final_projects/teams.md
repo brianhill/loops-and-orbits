@@ -58,7 +58,7 @@ Uncertainties: How to model? How many students are important? Consult with Kyle.
 
 ### Cindy Standup 2
 
-## Venessa and Jack &mdash; Basketball Trajectories (3-Pointers!?)
+## Venessa and Jack &mdash; Basketball Trajectories
 
 Our plan is to map out the path of a basketball. Focusing on the range of initial conditions which are mostly to result in a basket. Reflection off of the backboard.
 
