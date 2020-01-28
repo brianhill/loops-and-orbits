@@ -21,7 +21,7 @@ In an industry setting a significant goal of the standup is to inform the produc
 2. Explain your uncertainties in your choice of topic and how to proceed.
 3. Give a forward-looking status: principally, what do you plan to do between now and the next standup.
 4. Is there any way in which you are blocked and can use help from your classmates in getting unblocked?
-5. If you are blocked, remember, no step is to small to get unblocked. Google the topic. Figure out which notebook you have already studied is the closest. Identify constants that go into the model. Etc.
+5. If you are blocked, no step is to small to get unblocked. Google the topic. Figure out which notebook you have already studied is the closest. Identify constants that go into the model. Etc.
 
 ### Goals for Second Standup
 
@@ -29,7 +29,7 @@ In an industry setting a significant goal of the standup is to inform the produc
 2. Explain where you currently are on your topic. The explanation should be just enough so that people can understand what you are going to try next.
 3. Give a forward-looking status: principally, what do you plan to do between now and the final presentation?
 4. Explain uncertainties in your plan for how to proceed.
-5. Highlight any ways in which you feel you are blocked and can use help from the professor, the teaching assistants, or your classmates in getting unblocked.
+5. Highlight any ways in which you feel you are blocked and can use help.
 
 ### Plan for Final Presentations
 
