@@ -20,15 +20,7 @@ Yesterday we wwanted to start creating the power curve of the biceps. Instead cr
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 #### Something that could have been clearer or more impactful:
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
