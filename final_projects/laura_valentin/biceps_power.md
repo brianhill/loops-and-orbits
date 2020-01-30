@@ -1,7 +1,5 @@
 ## Laura and Valentin &mdash; Biceps Power
 
-[Laura and Valentin, Biceps Power](./gaby_andy/tennis_topspin.md)
-
 From the field of kinesiology: Power curve analysis of different Biceps exercises in comparison to the Biceps power curve. We take different Biceps exercises and calculate the power curve based on the force (gravity) and then compare it to the power curve of the Biceps itself.
 
 ### Standup 1
