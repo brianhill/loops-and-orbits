@@ -9,35 +9,17 @@
 
 ## *Three Presentations Starting 11:00 on Thursday*
 
-## Gaby and Andy &mdash; Tennis Ball Forehand Topspin
+## Gaby and Andy &mdash; Tennis Topspin
 
-Forehand spin &mdash; topspin &mdash; of a tennis ball. Reference: Cross and Lindsey, "Measurements of drag and lift on tennis balls in flight," Sports Engineering (2014) **17**, 89-96.
+[Gaby and Andy, Tennis Topspin](./gaby_andy/tennis_topspin.md)
 
-### Gaby and Andy Standup 1
+## Laura and Valentin &mdash; Biceps Power
 
-Going to add lift force to a tennis ball. Uncertainties: don't know how to get the lift coefficient as a function of spin. Starting with an extremely simple model for rate of spin. Starting with the projectile motion model from the baseball notebook.
-
-### Gaby and Andy Standup 2
-
-## Laura and Valentin &mdash; Biceps Exercise Equipment
-
-From the field of kinesiology: Power curve analysis of different Biceps exercises in comparison to the Biceps power curve. We take different Biceps exercises and calculate the power curve based on the force (gravity) and then compare it to the power curve of the Biceps itself.
-
-### Laura and Valentin Standup 1
-
-Will be plotting torque curves. x-axis of plot is the degrees the joint is bent. 0 to 150 degrees. Most powerful at the 90-degree point. Will examine four different biceps exercises. (1) Stand straight and bend arm with normal downwards force of gravity. (2) Cable tower. The direction of the force always changes. For today our plan is to create or re-create a good graph of the power curve of the actual biceps. Biomechanics book is a reference. Cheap machine has a curve that does not match the human biceps will be one of the remaining four exercises.
-
-### Laura and Valentin Standup 2
+[Laura and Valentin, Biceps Power](./gaby_andy/tennis_topspin.md)
 
 ## Nancy and Ausmitha &mdash; Portfolio Depreciation
 
-Asset depreciation. Depreciation models (one or more of straight line, accelerated, or compounding percentage). Reinvestment. Portfolio with multiple assets and asset classes.
-
-### Nancy and Ausmitha Standup 1
-
-Possibly add reinvestment and repairs for the assets. Straight-line method. Double-declining balance. Units of production depreciation model. Which is used for machinery. Starting today with a single asset and a single deprecation model.
-
-### Nancy and Ausmitha Standup 2
+[Nancy and Ausmitha, Portfolio Depreciation](./nancy_ausmitha/portfolio_depreciation.md)
 
 ## *Remaining Presentations Starting 9:15am on Friday*
 
@@ -53,6 +35,10 @@ First steps will be to code up the alternating current function.
 
 ### Hunter Standup 2
 
+Yesterday got all the formulas and values into the code. Alternating current function. 1000 Hz is the medium frequency.
+
+Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz)
+
 ## Cindy with Kyle &mdash; Model of Depression and Anxiety
 
 Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
@@ -62,6 +48,8 @@ Modeling the spread of depression and anxiety in a population of students during
 Uncertainties: How to model? How many students are important? Consult with Kyle. Start with something simple. 100 students each with a mood running from 0 to 10. Start them all at 7.
 
 ### Cindy Standup 2
+
+So far the model is just a declining mood for every student. Have a graph. Uncertainties how to make model realistic. External stress and spring break. Student-student interacxtion.
 
 ## Venessa and Jack &mdash; Basketball Trajectories
 
@@ -75,6 +63,8 @@ Will get started the baseball. Add reflection off backboard?!? Draw a hoop and b
 
 ### Venessa and Jack Standup 2
 
+Hard to do it, given error images. Currently the code for adding the court and the backboard gives errors. A single line segment to represent the backboard.
+
 ## Mackade &mdash; Adding Realism to Solow-Swan
 
 Extending the Solow-Swan economic model.
@@ -86,6 +76,12 @@ Next steps: A. Talk to Andras. B. Add a second coutnry to the plot.
 
 ### Mackade Standup 2
 
+Yesterday got a second country into the notebook.
+
+Investigating the Ramsey-Cass-Koopman extension of Solow-Swan.
+
+Add variable savings rate -- put in some big changes during and after WWWII. Haven't got feedback from Andras (external dependency)
+
 ## Matt and Nicolo &mdash; Kepler's 2nd Law
 
 Proving that Kepler's 2nd Law (equal areas in equal times) works. Produce a visualization of the equal areas.
@@ -96,6 +92,8 @@ Uncertainties: how to show the graphs. Finding the area for a non-right triangle
 
 ### Matt and Nicolo Standup 2
 
+Triangles are drawn. Have cool new function. Rounding all the areas to make the presentation. Ideas for making the triangles more exact.
+
 ## Ryan and Ronnie &mdash; Lift on a Golf Ball During Flight
 
 We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
@@ -104,9 +102,15 @@ We will examine the spin of a golf ball and the forces of a golf ball in flight.
 
 Realistic models in 2-D or 3-D. Golf balls have dimples that accentuate the lift. Plans for today. Develop a simpmle equation for lift.
 
+Lift is a function of angle.
+
 ### Ryan and Ronnie Standup 2
 
-## Peter and Theo &mdash; Apollo 13 Slingshot back to Earth
+Only Ryan present.
+
+Next step is tuning the model so that it is more realistic. Stretch goal is 3-D.
+
+## Peter and Theo &mdash; Apollo 13 Free Return back to Earth
 
 We have decided to make a simulation of a rocket orbiting earth and have it slingshot around the moon and come back to earth.
 
@@ -117,13 +121,16 @@ Massive simplification to start: keep the Moon fixed!
 
 ### Peter and Theo Standup 2
 
+It is tricky to model the additional gravity of the Moon.
+
 ## Kevin &mdash; Voyager Slingshot off Venus
 
 Model of a satellite leaving Earth and slingshotting to the outer planets and then out of the Solar system.
 
-Brian suggests getting started by slingshotting off of Venus. That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets. So they first dropped inward to Venus.
-
 ### Kevin Standup 1
 
+Brian suggests getting started by slingshotting off of Venus. That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets. So they first dropped inward to Venus.
 
 ### Kevin Standup 2
+
+Not present.
