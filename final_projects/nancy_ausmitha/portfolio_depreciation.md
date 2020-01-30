@@ -1,12 +1,18 @@
 ## Nancy and Ausmitha &mdash; Portfolio Depreciation
 
-Asset depreciation. Depreciation models (one or more of straight line, accelerated, or compounding percentage). Portfolio with multiple assets and asset classes. Stretch goal: reinvestment.
+Asset depreciation. Depreciation models (one or more of straight line, accelerated, or compounding percentage).
+
+Portfolio with multiple assets and asset classes.
+
+Stretch goal: reinvestment.
 
 ### Nancy and Ausmitha Standup 1
 
 Possibly add reinvestment and repairs for the assets. Straight-line method. Double-declining balance.
 
-Units of production depreciation model. Which is used for machinery. Starting today with a single asset and a single deprecation model.
+Units of production depreciation model. Which is used for machinery.
+
+Starting today with a single asset and a single deprecation model.
 
 ### Nancy and Ausmitha Standup 2
 
