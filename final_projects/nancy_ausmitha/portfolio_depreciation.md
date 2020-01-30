@@ -8,9 +8,7 @@ Stretch goal: reinvestment.
 
 ### Nancy and Ausmitha Standup 1
 
-Possibly add reinvestment and repairs for the assets. Straight-line method. Double-declining balance.
-
-Units of production depreciation model. Which is used for machinery.
+Possibly add reinvestment and repairs for the assets. Straight-line method. Double-declining balance. Units of production depreciation model which is used for machinery.
 
 Starting today with a single asset and a single deprecation model.
 
