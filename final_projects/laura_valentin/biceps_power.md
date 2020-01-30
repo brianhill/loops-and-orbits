@@ -16,31 +16,31 @@ Yesterday we wwanted to start creating the power curve of the biceps. Instead cr
 
 ### Something you learned or admired, about the topic, the model, the code, or the presentation itself:
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
 ### Something that could have been clearer or more impactful:
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
-&npsp;
+&nbsp;
 
 ### Overall impression (circle one only):
 
-Needed more work
+Needs more work
 
 Good
 
