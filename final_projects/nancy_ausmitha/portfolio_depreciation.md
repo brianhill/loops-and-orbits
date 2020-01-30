@@ -32,11 +32,7 @@ New stretch goal: show multiple assets in the portfolio.
 
 &nbsp;
 
-&nbsp;
-
 #### Something that could have been clearer or more impactful:
-
-&nbsp;
 
 &nbsp;
 
