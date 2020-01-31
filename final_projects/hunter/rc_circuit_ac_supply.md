@@ -1,6 +1,12 @@
 ## Hunter &mdash; RC Circuit with AC Supply
 
-With the resistor-capacitor combination, we can swap out the DC (direct current) voltage source and put in an AC (alternating current) voltage source. The resistor-capacitor combination is called an "RC" circuit. I'll be doing an RC circuit with an AC voltage source. It turns out you can make both a low-pass filter and a high-pass filter out of an RC circuit. The Jupyter notebook will study high-pass and low-pass filters made from RC circuits.
+With the resistor-capacitor combination, we can swap out the DC (direct current) voltage source and put in an AC (alternating current) voltage source.
+
+The resistor-capacitor combination is called an "RC" circuit.
+
+I'll be doing an RC circuit with an AC voltage source. It turns out you can make both a low-pass filter and a high-pass filter out of an RC circuit.
+
+The Jupyter notebook will study high-pass and low-pass filters made from RC circuits.
 
 ### Links
 
