@@ -47,7 +47,7 @@ Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz).
 
 ## Venessa and Jack &mdash; Basketball Swisher
 
-[Venessa and Jack, Basketball Swisher](./vanessa_jack/basketball_swisher.md)
+[Venessa and Jack, Basketball Swisher](./venessa_jack/basketball_swisher.md)
 
 ## Mackade &mdash; Extending Solow-Swan
 
