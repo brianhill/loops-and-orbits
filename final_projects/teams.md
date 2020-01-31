@@ -25,6 +25,8 @@
 
 ## Hunter &mdash; AC Voltage in an RC Circuit
 
+[Hunter, RC Circuit with AC Supply](./hunter/rc_circuit_ac_supply.md)
+
 With the resistor-capacitor combination, we can swap out the DC (direct current) voltage source and put in an AC (alternating current) voltage source. The resistor-capacitor combination is called an "RC" circuit.
 
 I'll be doing an RC circuit with an AC voltage source. It turns out you can make both a low-pass filter and a high-pass filter out of an RC circuit. The Jupyter notebook will study high-pass and low-pass filters made from RC circuits.
@@ -37,9 +39,11 @@ First steps will be to code up the alternating current function.
 
 Yesterday got all the formulas and values into the code. Alternating current function. 1000 Hz is the medium frequency.
 
-Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz)
+Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz).
 
-## Cindy with Kyle &mdash; Model of Depression and Anxiety
+## Cindy &mdash; Student Body Mood
+
+[Cindy, Student Body Mood](./cindy/student_body_mood.md)
 
 Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
 
@@ -51,7 +55,9 @@ Uncertainties: How to model? How many students are important? Consult with Kyle.
 
 So far the model is just a declining mood for every student. Have a graph. Uncertainties how to make model realistic. External stress and spring break. Student-student interacxtion.
 
-## Venessa and Jack &mdash; Basketball Trajectories
+## Venessa and Jack &mdash; Basketball Swisher
+
+[Venessa and Jack, Basketball Swisher](./vanessa_jack/basketball_swisher.md)
 
 Our plan is to map out the path of a basketball. Focusing on the range of initial conditions which are mostly to result in a basket. Reflection off of the backboard.
 
@@ -59,13 +65,15 @@ Work with the angles depending on a set distance from the hoop. Lots of differen
 
 ### Venessa and Jack Standup 1
 
-Will get started the baseball. Add reflection off backboard?!? Draw a hoop and backboard.
+Will get started using the baseball notebook. Add reflection off backboard?!? Draw a hoop and backboard.
 
 ### Venessa and Jack Standup 2
 
-Hard to do it, given error images. Currently the code for adding the court and the backboard gives errors. A single line segment to represent the backboard.
+Hard to do it, given error images. Currently the code for adding the court and the backboard gives errors. Brian suggests a single line segment rather than a whole image to represent the hoop and backboard.
 
-## Mackade &mdash; Adding Realism to Solow-Swan
+## Mackade &mdash; Extending Solow-Swan
+
+[Mackade, Extending Solow-Swan](./mackade/extending_solow_swan.md)
 
 Extending the Solow-Swan economic model.
 
@@ -84,6 +92,8 @@ Add variable savings rate -- put in some big changes during and after WWWII. Hav
 
 ## Matt and Nicolo &mdash; Kepler's 2nd Law
 
+[Matt and Nicolo, Kepler's 2nd Law](./matt_nicolo/keplers_2nd_law.md)
+
 Proving that Kepler's 2nd Law (equal areas in equal times) works. Produce a visualization of the equal areas.
 
 ### Matt and Nicolo Standup 1
@@ -94,7 +104,9 @@ Uncertainties: how to show the graphs. Finding the area for a non-right triangle
 
 Triangles are drawn. Have cool new function. Rounding all the areas to make the presentation. Ideas for making the triangles more exact.
 
-## Ryan and Ronnie &mdash; Lift on a Golf Ball During Flight
+## Ryan and Ronnie &mdash; Golf Ball Lift
+
+[Ryan and Ronnie, Golf Ball Lift](./ryan_ronnie/golf_ball_lift.md)
 
 We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
 
@@ -110,7 +122,23 @@ Only Ryan present.
 
 Next step is tuning the model so that it is more realistic. Stretch goal is 3-D.
 
-## Peter and Theo &mdash; Apollo 13 Free Return back to Earth
+## Kevin &mdash; Voyager Slingshot
+
+[Kevin, Voyager Slingshot](./kevin/voyager_slingshot.md)
+
+Model of a satellite leaving Earth and slingshotting to the outer planets and then out of the Solar system.
+
+### Kevin Standup 1
+
+Brian suggests getting started by slingshotting off of Venus. That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets. So they first dropped inward to Venus.
+
+### Kevin Standup 2
+
+Not present.
+
+## Peter and Theo &mdash; Apollo 13 Return
+
+[Peter and Theo, Apollo 13 Return](./peter_and_theo/apollo_13_return.md)
 
 We have decided to make a simulation of a rocket orbiting earth and have it slingshot around the moon and come back to earth.
 
@@ -123,14 +151,3 @@ Massive simplification to start: keep the Moon fixed!
 
 It is tricky to model the additional gravity of the Moon.
 
-## Kevin &mdash; Voyager Slingshot off Venus
-
-Model of a satellite leaving Earth and slingshotting to the outer planets and then out of the Solar system.
-
-### Kevin Standup 1
-
-Brian suggests getting started by slingshotting off of Venus. That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets. So they first dropped inward to Venus.
-
-### Kevin Standup 2
-
-Not present.
