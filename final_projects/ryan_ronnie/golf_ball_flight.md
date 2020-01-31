@@ -15,9 +15,7 @@ Lift is a function of angle.
 
 ### Ryan and Ronnie Standup 2
 
-Only Ryan present.
-
-Next step is tuning the model so that it is more realistic. Stretch goal is 3-D.
+Only Ryan present. Next step is tuning the model so that it is more realistic. Stretch goal is 3-D.
 
 ### Final Presentation Feedback
 
