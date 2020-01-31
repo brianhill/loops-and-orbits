@@ -1,6 +1,6 @@
 # Loops and Orbits &mdash; Final Project Teams
 
-![Teams at Work](./TeamsAtWork-2020-01-27.jpeg)
+![Class at Work](./photos/ClassAtWork.jpeg)
 
 ## Links
 
@@ -15,15 +15,15 @@
 
 ## Laura and Valentin &mdash; Biceps Power
 
-[Laura and Valentin, Biceps Power](./gaby_andy/tennis_topspin.md)
+[Laura and Valentin, Biceps Power](./gaby_andy/biceps_power.md)
 
 ## Nancy and Ausmitha &mdash; Portfolio Depreciation
 
 [Nancy and Ausmitha, Portfolio Depreciation](./nancy_ausmitha/portfolio_depreciation.md)
 
-## *Remaining Presentations Starting 9:15am on Friday*
+## *Remaining Eight Presentations Starting 9:15am on Friday*
 
-## Hunter &mdash; AC Voltage in an RC Circuit
+## Hunter &mdash; RC Circuit with AC Supply
 
 [Hunter, RC Circuit with AC Supply](./hunter/rc_circuit_ac_supply.md)
 
@@ -45,109 +45,26 @@ Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz).
 
 [Cindy, Student Body Mood](./cindy/student_body_mood.md)
 
-Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
-
-### Cindy Standup 1
-
-Uncertainties: How to model? How many students are important? Consult with Kyle. Start with something simple. 100 students each with a mood running from 0 to 10. Start them all at 7.
-
-### Cindy Standup 2
-
-So far the model is just a declining mood for every student. Have a graph. Uncertainties how to make model realistic. External stress and spring break. Student-student interacxtion.
-
 ## Venessa and Jack &mdash; Basketball Swisher
 
 [Venessa and Jack, Basketball Swisher](./vanessa_jack/basketball_swisher.md)
-
-Our plan is to map out the path of a basketball. Focusing on the range of initial conditions which are mostly to result in a basket. Reflection off of the backboard.
-
-Work with the angles depending on a set distance from the hoop. Lots of different trajectories can go through hoop. 
-
-### Venessa and Jack Standup 1
-
-Will get started using the baseball notebook. Add reflection off backboard?!? Draw a hoop and backboard.
-
-### Venessa and Jack Standup 2
-
-Hard to do it, given error images. Currently the code for adding the court and the backboard gives errors. Brian suggests a single line segment rather than a whole image to represent the hoop and backboard.
 
 ## Mackade &mdash; Extending Solow-Swan
 
 [Mackade, Extending Solow-Swan](./mackade/extending_solow_swan.md)
 
-Extending the Solow-Swan economic model.
-
-### Mackade Standup 1
-
-Andras's model is pretty naive. Make it more realistic or more interactive. Start by adding two countries instaead of 1.
-Next steps: A. Talk to Andras. B. Add a second coutnry to the plot.
-
-### Mackade Standup 2
-
-Yesterday got a second country into the notebook.
-
-Investigating the Ramsey-Cass-Koopman extension of Solow-Swan.
-
-Add variable savings rate -- put in some big changes during and after WWWII. Haven't got feedback from Andras (external dependency)
-
 ## Matt and Nicolo &mdash; Kepler's 2nd Law
 
 [Matt and Nicolo, Kepler's 2nd Law](./matt_nicolo/keplers_2nd_law.md)
-
-Proving that Kepler's 2nd Law (equal areas in equal times) works. Produce a visualization of the equal areas.
-
-### Matt and Nicolo Standup 1
-
-Uncertainties: how to show the graphs. Finding the area for a non-right triangle will be a bit of a challenge.
-
-### Matt and Nicolo Standup 2
-
-Triangles are drawn. Have cool new function. Rounding all the areas to make the presentation. Ideas for making the triangles more exact.
 
 ## Ryan and Ronnie &mdash; Golf Ball Lift
 
 [Ryan and Ronnie, Golf Ball Lift](./ryan_ronnie/golf_ball_lift.md)
 
-We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
-
-### Ryan and Ronnie Standup 1
-
-Realistic models in 2-D or 3-D. Golf balls have dimples that accentuate the lift. Plans for today. Develop a simpmle equation for lift.
-
-Lift is a function of angle.
-
-### Ryan and Ronnie Standup 2
-
-Only Ryan present.
-
-Next step is tuning the model so that it is more realistic. Stretch goal is 3-D.
-
 ## Kevin &mdash; Voyager Slingshot
 
 [Kevin, Voyager Slingshot](./kevin/voyager_slingshot.md)
 
-Model of a satellite leaving Earth and slingshotting to the outer planets and then out of the Solar system.
+## Peter and Theo &mdash; Apollo 13 Free Return
 
-### Kevin Standup 1
-
-Brian suggests getting started by slingshotting off of Venus. That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets. So they first dropped inward to Venus.
-
-### Kevin Standup 2
-
-Not present.
-
-## Peter and Theo &mdash; Apollo 13 Return
-
-[Peter and Theo, Apollo 13 Return](./peter_and_theo/apollo_13_return.md)
-
-We have decided to make a simulation of a rocket orbiting earth and have it slingshot around the moon and come back to earth.
-
-### Peter and Theo Standup 1
-
-Start by coding up the mooon's gravity using functions that are similar to those that you already have for the Earth's gravity. Total acceleration will be the acceleration due to Earth's gravity plus the acceleration due to the Moon's gravity.
-Massive simplification to start: keep the Moon fixed!
-
-### Peter and Theo Standup 2
-
-It is tricky to model the additional gravity of the Moon.
-
+[Peter and Theo, Apollo 13 Free Return](./peter_and_theo/apollo_13_free_return.md)

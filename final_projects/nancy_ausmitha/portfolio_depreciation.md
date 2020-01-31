@@ -6,6 +6,12 @@ Portfolio with multiple assets and asset classes.
 
 Stretch goal: reinvestment.
 
+### Links
+
+* [Straight-Line Depreciation Notebook](./straight_line_depreciation.ipynb)
+* [Units of Production Notebook](./units_of_production.ipynb)
+* Return to [Teams](../teams.md)
+
 ### Nancy and Ausmitha Standup 1
 
 Possibly add reinvestment and repairs for the assets. Straight-line method. Double-declining balance. Units of production depreciation model which is used for machinery.

@@ -13,7 +13,7 @@ In an industry setting a significant goal of the standup is to inform the produc
 
 ## Schedule / Goals / Rubric
 
-![Board Notes](./BoardNotes.jpeg)
+![Board Notes](./photos/BoardNotes.jpeg)
 
 ### First Standup
 
@@ -33,23 +33,36 @@ In an industry setting a significant goal of the standup is to inform the produc
 
 ### Final Presentations
 
-If you are presenting on Thursday, email me your notebook during the middle of Thursday's class. I will load all three of them up on my laptop so that you can step through and show your notebook on the front screen using AirPlay.
+Presentations are about 15 minutes, including time for questions and feedback. So 10-12 is about how long you should plan to talk. Good things to emphasize:
 
-Thursday presenters:
+1. The topic.
+2. Why it is interesting to you.
+3. The model.
+4. The code.
+5. What running the model and seeing the output (especially the graphs) tells you.
+
+Note that the code (which might be what you spent most of your time on) is for the presentation only 1 out of 5 things to emphasize. In other words, don't get bogged down showing code in a lot of detail.
+
+#### Thursday Presenters
+
+If you are presenting on Thursday, email me your notebook by 10:45 (during Thursday's class). I will load all three of them up on my laptop so that you can step through and show your notebook on the front screen using AirPlay.
 
 * Gaby/Andy
 * Laura/Valentin
 * Nancy/Ausmitha
 
-If you are presenting on Friday, email me your notebook at the end of day on Thursday. We will start Friday's class right away with presentations. I will load all eight of them loaded up on my laptop so that you can step through and show your notebook on the front screen using AirPlay.
+#### Friday Presenters
 
-Friday presenters:
+If you are presenting on Friday, email me your notebook by midnight on Thursday. We will start Friday's class right away with presentations. I will load all eight of them up on my laptop so that you can step through and show your notebook on the front screen using AirPlay.
 
 * Hunter
-* Cindy (with Kyle?)
+* Cindy
 * Venessa/Jack
 * Mackade
+
+Break
+
 * Matt/Nicolo
 * Ryan/Ronnie
-* Peter/Theo
 * Kevin
+* Peter/Theo

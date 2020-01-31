@@ -2,6 +2,11 @@
 
 Forehand spin &mdash; topspin &mdash; of a tennis ball. Reference: Cross and Lindsey, "Measurements of drag and lift on tennis balls in flight," Sports Engineering (2014) **17**, 89-96.
 
+### Links
+
+* [Tennis Topspin Notebook](./tennis_topspin.ipynb)
+* Return to [Teams](../teams.md)
+
 ### Standup 1
 
 Going to add lift force to a tennis ball. Uncertainties: don't know how to get the lift coefficient as a function of spin.
