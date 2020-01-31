@@ -11,7 +11,9 @@ Model of a satellite leaving Earth and slingshotting to the outer planets and th
 
 Brian suggests getting started by slingshotting off of Venus.
 
-That was actually how the Voyagers did it, because they did not have enough fuel to go straight to the outer planets.
+That was actually how the Voyagers did it.
+
+They did not have enough fuel to go straight to the outer planets.
 
 So they first dropped inward to Venus.
 
