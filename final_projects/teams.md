@@ -57,9 +57,9 @@ Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz).
 
 [Matt and Nicolo, Kepler's 2nd Law](./matt_nicolo/keplers_2nd_law.md)
 
-## Ryan and Ronnie &mdash; Golf Ball Lift
+## Ryan and Ronnie &mdash; Golf Ball Flight
 
-[Ryan and Ronnie, Golf Ball Lift](./ryan_ronnie/golf_ball_lift.md)
+[Ryan and Ronnie, Golf Ball Flight](./ryan_ronnie/golf_ball_flight.md)
 
 ## Kevin &mdash; Voyager Slingshot
 

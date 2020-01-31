@@ -1,10 +1,10 @@
-## Ryan and Ronnie &mdash; Golf Ball Lift
+## Ryan and Ronnie &mdash; Golf Ball Flight
 
 We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
 
 ### Links
 
-* [Golf Ball Lift Notebook](./golf_ball_lift.ipynb)
+* [Golf Ball Lift Notebook](./golf_ball_flight.ipynb)
 * Return to [Teams](../teams.md)
 
 ### Ryan and Ronnie Standup 1
