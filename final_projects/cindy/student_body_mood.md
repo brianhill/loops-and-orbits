@@ -1,5 +1,7 @@
 ## Cindy &mdash; Student Body Mood
 
+### *Consultant: Kyle Krantz (senior)*
+
 Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
 
 ### Links
