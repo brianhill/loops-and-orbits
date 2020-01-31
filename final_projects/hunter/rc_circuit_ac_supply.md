@@ -16,3 +16,47 @@ First steps will be to code up the alternating current function.
 Yesterday got all the formulas and values into the code. Alternating current function. 1000 Hz is the medium frequency.
 
 Low frequency (200 Hz), medium frequeny, and high frequency (5000 Hz).
+
+### Final Presentation Feedback
+
+#### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Something that could have been clearer or more impactful:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Overall impression (circle one only):
+
+Needs more work
+
+Good
+
+Impressive
+
+Very Impressive
+
+#### REVIEWER NAME:
+
+&nbsp;
+
+&nbsp;
+
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

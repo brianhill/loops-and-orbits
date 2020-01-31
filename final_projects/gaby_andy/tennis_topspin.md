@@ -25,7 +25,7 @@ Ready to update the angles. Add a net into the graph.
 
 Finish the spin and coefficient of lift function. Stretch goal: add 3-D.
 
-### Final Presentation
+### Final Presentation Feedback
 
 #### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
 
@@ -61,10 +61,10 @@ Impressive
 
 Very Impressive
 
-#### YOUR NAME:
+#### REVIEWER NAME:
 
 &nbsp;
 
 &nbsp;
 
-YOUR NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

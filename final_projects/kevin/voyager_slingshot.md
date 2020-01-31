@@ -15,3 +15,46 @@ Brian suggests getting started by slingshotting off of Venus. That was actually 
 
 Not present.
 
+### Final Presentation Feedback
+
+#### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Something that could have been clearer or more impactful:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Overall impression (circle one only):
+
+Needs more work
+
+Good
+
+Impressive
+
+Very Impressive
+
+#### REVIEWER NAME:
+
+&nbsp;
+
+&nbsp;
+
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

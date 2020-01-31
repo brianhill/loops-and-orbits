@@ -16,3 +16,47 @@ Uncertainties: How to model? How many students are important? Consult with Kyle.
 ### Cindy Standup 2
 
 So far the model is just a declining mood for every student. Have a graph. Uncertainties how to make model realistic. External stress and spring break. Student-student interacxtion.
+
+### Final Presentation Feedback
+
+#### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Something that could have been clearer or more impactful:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Overall impression (circle one only):
+
+Needs more work
+
+Good
+
+Impressive
+
+Very Impressive
+
+#### REVIEWER NAME:
+
+&nbsp;
+
+&nbsp;
+
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

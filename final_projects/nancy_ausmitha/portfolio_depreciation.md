@@ -26,9 +26,11 @@ Double-declining. Units of Production. Contacting Accounting faculty to add real
 
 New stretch goal: show multiple assets in the portfolio.
 
-### Final Presentation
+### Final Presentation Feedback
 
 #### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
+
+&nbsp;
 
 &nbsp;
 
@@ -48,6 +50,8 @@ New stretch goal: show multiple assets in the portfolio.
 
 &nbsp;
 
+&nbsp;
+
 #### Overall impression (circle one only):
 
 Needs more work
@@ -58,10 +62,10 @@ Impressive
 
 Very Impressive
 
-#### YOUR NAME:
+#### REVIEWER NAME:
 
 &nbsp;
 
 &nbsp;
 
-YOUR NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

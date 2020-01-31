@@ -16,3 +16,47 @@ Will get started using the baseball notebook. Add reflection off backboard?!? Dr
 ### Venessa and Jack Standup 2
 
 Hard to do it, given error images. Currently the code for adding the court and the backboard gives errors. Brian suggests a single line segment rather than a whole image to represent the hoop and backboard.
+
+### Final Presentation Feedback
+
+#### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Something that could have been clearer or more impactful:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### Overall impression (circle one only):
+
+Needs more work
+
+Good
+
+Impressive
+
+Very Impressive
+
+#### REVIEWER NAME:
+
+&nbsp;
+
+&nbsp;
+
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM

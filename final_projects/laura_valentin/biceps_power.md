@@ -16,7 +16,7 @@ Will be plotting torque curves. x-axis of plot is the degrees the joint is bent.
 
 Yesterday we wwanted to start creating the power curve of the biceps. Instead created power curve of the equipment that exercises the biceps. The steps for today will be to create the model of the biceps. Visualization isn't telling you enough. So you are going to work on the visualization. Cumulative energy delivered by bicep, obtained by integrating the torque curve.
 
-### Final Presentation
+### Final Presentation Feedback
 
 #### Something  valuable you learned, about the topic, the model, the code, or admired about the presentation itself:
 
@@ -26,7 +26,15 @@ Yesterday we wwanted to start creating the power curve of the biceps. Instead cr
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 #### Something that could have been clearer or more impactful:
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -44,10 +52,10 @@ Impressive
 
 Very Impressive
 
-#### YOUR NAME:
+#### REVIEWER NAME:
 
 &nbsp;
 
 &nbsp;
 
-YOUR NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM
+REVIEWER NAME WILL BE REMOVED/ANONYMIZED BEFORE DELIVERY TO TEAM
