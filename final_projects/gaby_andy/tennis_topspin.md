@@ -2,6 +2,8 @@
 
 Forehand spin &mdash; topspin &mdash; of a tennis ball. Reference: Cross and Lindsey, "Measurements of drag and lift on tennis balls in flight," Sports Engineering (2014) **17**, 89-96.
 
+![../photos/GabyAndy.jpeg]
+
 ### Links
 
 * [Tennis Topspin Notebook](./tennis_topspin.ipynb)
