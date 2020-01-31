@@ -137,10 +137,10 @@
 
 #### Week 4 Final Project Schedule
 
-* Final Project Preparation Day 4-1: Class-time devoted to Preparing Final Projects. Short Progress Presentations.
-* Final Project Preparation Day 4-2: Class-time devoted to Preparing Final Projects. Short Progress Presentations.
-* Final Project Preparation and Presentations Day 4-3: 2/3 of Class time devoted to Preparing Final Projects. 1/3 devoted to Final Presentations begin.
-* Final Project Presentations Day 4-4: Final Presentations end.
+* Final Project Preparation Day 4-1: Class-time devoted to preparing final projects. Short progress presentations.
+* Final Project Preparation Day 4-2: Class-time devoted to preparing final projects. Short progress presentations.
+* Final Project Preparation and Presentations Day 4-3: 2/3 of class time devoted to preparing final projects; 1/3 devoted to first 3 final project presentations.
+* Final Project Presentations Day 4-4: Remaining eight final project presentations.
 
 #### Week 4 Homework
 

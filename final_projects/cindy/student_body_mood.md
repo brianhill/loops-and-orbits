@@ -2,7 +2,9 @@
 
 ### *Consultant: Kyle Krantz (senior)*
 
-Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
+Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic.
+
+Possibly it could be made realistic. Consultant on project, senior in psychology, Kyle Krantz.
 
 ### Links
 
@@ -15,7 +17,7 @@ Uncertainties: How to model? How many students are important? Consult with Kyle.
 
 ### Cindy Standup 2
 
-So far the model is just a declining mood for every student. Have a graph. Uncertainties how to make model realistic. External stress and spring break. Student-student interacxtion.
+So far the model is just a declining mood for every student. Graph some sample students. Uncertainties how to make model have more features. External stress and spring break. Student-student interaction.
 
 ### Final Presentation Feedback
 
