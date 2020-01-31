@@ -2,6 +2,8 @@
 
 From the field of kinesiology: Power curve analysis of different Biceps exercises in comparison to the Biceps power curve. We take different Biceps exercises and calculate the power curve based on the force (gravity) and then compare it to the power curve of the Biceps itself.
 
+![Laura and Valentin Presenting](../photos/LauraValentin.jpeg)
+
 ### Links
 
 * [Biceps Power Notebook](./biceps_power.ipynb)

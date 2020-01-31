@@ -112,10 +112,10 @@
 
 #### Week 3 Python Coding Lab
 
-* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charing.
-* Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model.
-* Jupyter [Notebook 3-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta.
-* Jupyter [Notebook 3-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas.
+* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charing ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1-solved.ipynb)).
+* Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2-solved.ipynb)).
+* Jupyter [Notebook 3-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta ([COMING SOON - solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3-solved.ipynb)).
+* Jupyter [Notebook 3-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas ([COMING SOON - solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4-solved.ipynb)).
 
 #### Week 3 Homework
 

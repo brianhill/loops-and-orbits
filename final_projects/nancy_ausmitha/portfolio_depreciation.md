@@ -6,6 +6,8 @@ Portfolio with multiple assets and asset classes.
 
 Stretch goal: reinvestment.
 
+![Nancy and Ausmitha Presenting](../photos/NancyAusmitha.jpeg)
+
 ### Links
 
 * [Straight-Line Depreciation Notebook](./straight_line_depreciation.ipynb)
