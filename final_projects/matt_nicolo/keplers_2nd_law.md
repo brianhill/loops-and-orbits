@@ -2,7 +2,9 @@
 
 Proving that Kepler's 2nd Law (equal areas in equal times) works.
 
-Produce a visualization of the equal areas law of Kepler's three laws. Start from the Newton's Cannon notebook.
+Produce a visualization of the equal areas law of Kepler's three laws.
+
+Start from the Newton's Cannon notebook.
 
 ### Links
 
