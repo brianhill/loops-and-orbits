@@ -53,4 +53,4 @@
 
 ### Peter and Theo &mdash; Apollo 13 Free Return
 
-[Peter and Theo, Apollo 13 Free Return](./peter_and_theo/apollo_13_free_return.md)
+[Peter and Theo, Apollo 13 Free Return](./peter_theo/apollo_13_free_return.md)
