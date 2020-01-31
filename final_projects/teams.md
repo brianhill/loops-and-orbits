@@ -15,7 +15,7 @@
 
 ### Laura and Valentin &mdash; Biceps Power
 
-[Laura and Valentin, Biceps Power](./gaby_andy/biceps_power.md)
+[Laura and Valentin, Biceps Power](./laura_valentin/biceps_power.md)
 
 ### Nancy and Ausmitha &mdash; Portfolio Depreciation
 
