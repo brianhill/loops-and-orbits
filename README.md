@@ -1,5 +1,7 @@
 # Loops and Orbits &mdash; README.md
 
+![Whole Class](./WholeClass.jpeg)
+
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
 * [Weekly Schedule](#weekly-schedule)
 * Daily Schedules by Week
@@ -58,7 +60,7 @@
 
 #### Week 1 Python Coding Lab
 
-* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb): Python Building Blocks (run this week's notebooks online using Binder)
+* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb): Python Building Blocks (for the first week, we will run the notebooks online using Binder &mdash; starting in the second week, see [Directions for Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf))
 * Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run
 * Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer
 * Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider
@@ -78,14 +80,14 @@
 
 #### Week 2 Computer Science
 
-* Computer Science Day 2-1: [Using Jupyter locally](./computer_science/lao-2-1-cs.pdf) on the lab iMacs; If Statements and Variants, If/Else, If/Elif, and If/Elif/Else.
+* Computer Science Day 2-1: [Directions for Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf). If Statements and Variants, If/Else, If/Elif, and If/Elif/Else.
 * Computer Science Day 2-2: Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
 * Computer Science Day 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html))
 * Computer Science Day 2-4: Matrices and the numpy library. Objects. Methods. Libraries. Library Functions.
 
 #### Week 2 Python Coding Lab
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (download this week's notebooks to a lab iMac per [Computer Science Notes 2-1](./computer_science/lao-2-1-cs.pdf)) ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1-solved.ipynb)).
+* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (see directions for [Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf)) ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1-solved.ipynb)).
 * Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2-solved.ipynb)).
 * Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon &mdash; Introducing `unittest` ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3-solved.ipynb)).
 * Jupyter [Notebook 2-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-4.ipynb): Introduction to Numpy. 
