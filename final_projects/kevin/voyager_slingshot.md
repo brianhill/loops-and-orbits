@@ -2,6 +2,8 @@
 
 Model of a satellite leaving Earth and slingshotting to the outer planets and then out of the Solar system.
 
+![Kevin Working](../photos/KevinWorking.jpeg)
+
 ### Links
 
 * [Voyager Slingshot Notebook](./voyager_slingshot.ipynb)
@@ -15,7 +17,7 @@ That was actually how the Voyagers did it.
 
 They did not have enough fuel to go straight to the outer planets.
 
-So they first dropped inward to Venus.
+So they first dropped inward with the help of the Sun towards Venus.
 
 ### Kevin Standup 2
 

@@ -8,6 +8,8 @@ I'll be doing an RC circuit with an AC voltage source. It turns out you can make
 
 The Jupyter notebook will study high-pass and low-pass filters made from RC circuits.
 
+![Hunter Working](../photos/HunterWorking.jpeg)
+
 ### Links
 
 * [RC Circuit with AC Supply Notebook](./rc_circuit_ac_supply.ipynb)
