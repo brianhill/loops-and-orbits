@@ -5,9 +5,10 @@
 ## Links
 
 * Jump to [Final Projects Plan](./plan.md)
-* Return to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+* Jump to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+* Return to [Loops and Orbits Home](../README.md)
 
-## *Three Presentations Starting 11:00 on Thursday*
+## *Three Presentations Starting 11:00am on Thursday*
 
 ### Gaby and Andy &mdash; Tennis Topspin
 
@@ -21,7 +22,7 @@
 
 [Nancy and Ausmitha, Portfolio Depreciation](./nancy_ausmitha/portfolio_depreciation.md)
 
-## *Eight Presentations Starting 9:15am on Friday*
+## *Eight Presentations Starting 9:30am on Friday*
 
 ### Hunter &mdash; RC Circuit with AC Supply
 

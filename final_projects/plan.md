@@ -1,7 +1,8 @@
 # Loops and Orbits &mdash; Final Projects Plan
 
 * Jump to [Final Project Teams](./teams.md)
-* Return to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+* Jump to [Syllabus](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+* Return to [Loops and Orbits Home](../README.md)
 
 ## Overview
 
