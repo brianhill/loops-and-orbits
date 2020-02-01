@@ -2,6 +2,8 @@
 
 We will examine the spin of a golf ball and the forces of a golf ball in flight. We’ve looked at some websites with research about it, and we think we can model a golf ball flight. Brian suggests: look into whether a 3-D view is possible -- in which case slicing the ball to the left or right would be very cool. There are radar sensing measurements and models.
 
+![Ryan and Ronnie Presenting](../photos/RyanRonnie.jpeg)
+
 ### Links
 
 * [Golf Ball Lift Notebook](./golf_ball_flight.ipynb)

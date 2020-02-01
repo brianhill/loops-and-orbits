@@ -4,6 +4,8 @@ Our plan is to map out the path of a basketball. Focusing on the range of initia
 
 Work with the angles depending on a set distance from the hoop. Lots of different trajectories can go through hoop.
 
+![Venessa and Jack Presenting](../photos/VenessaJack.jpeg)
+
 ### Links
 
 * [Basketball Swisher Notebook](./basketball_swisher.ipynb)

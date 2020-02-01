@@ -6,6 +6,8 @@ Produce a visualization of the equal areas law of Kepler's three laws.
 
 Start from the Newton's Cannon notebook.
 
+![Matt and Nicolo Presenting](../photos/MattNicolo.jpeg)
+
 ### Links
 
 * [Kepler's 2nd Law Notebook](./keplers_2nd_law.ipynb)

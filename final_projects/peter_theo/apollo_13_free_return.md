@@ -2,6 +2,8 @@
 
 We have decided to make a simulation of a rocket taking off from earth and have it slingshot around the moon and come back to earth.
 
+![Peter and Theo Presenting](../photos/PeterTheo.jpeg)
+
 ### Links
 
 * [Apollo 13 Free Return Notebook](./apollo_13_free_return.ipynb)

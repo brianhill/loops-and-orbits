@@ -2,6 +2,8 @@
 
 Extending the Solow-Swan economic model.
 
+![Mackade Presenting](../photos/Mackade.jpeg)
+
 ### Links
 
 * [Extending Solow-Swan Notebook](./extending_solo_swan.ipynb)

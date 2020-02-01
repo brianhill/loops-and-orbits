@@ -2,6 +2,8 @@
 
 Modeling the spread of depression and anxiety in a population of students during the course of the semester. The model is not intended to be realistic. Possibly it could be made realistic. Consultant on project: Senior in Psychology, Kyle Krantz.
 
+![Cindy Presenting](../photos/Cindy.jpeg)
+
 ### Links
 
 * [Student Body Mood Notebook](./student_body_mood.ipynb)
