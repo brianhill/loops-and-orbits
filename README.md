@@ -1,4 +1,6 @@
-# Loops and Orbits &mdash; README.md
+# Loops and Orbits
+
+## *Programming for Aspiring Rocketeers*
 
 ![Whole Class](./WholeClass.jpeg)
 
