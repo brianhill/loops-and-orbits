@@ -2,7 +2,7 @@
 
 ## *Programming for Aspiring Rocketeers*
 
-![Whole Class](./WholeClass.jpeg)
+![Whole Class](./final_projects/photos/WholeClass.jpeg)
 
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
 * [Weekly Schedule](#weekly-schedule)
