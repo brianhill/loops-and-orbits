@@ -96,7 +96,7 @@
 
 #### Week 2 Homework
 
-* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf): Turning the Baseball into a Rocket. Replacing Drag with Thrust.
+* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf): Turning the Baseball into a Rocket. Replacing Drag with Thrust. [HW2 Solution](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-hw2-solution.ipynb).
 
 ### Week 3 Daily Schedule
 
@@ -116,14 +116,14 @@
 
 #### Week 3 Python Coding Lab
 
-* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charing ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1-solved.ipynb)).
+* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charging ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1-solved.ipynb)).
 * Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2-solved.ipynb)).
 * Jupyter [Notebook 3-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3-solved.ipynb)).
 * Jupyter [Notebook 3-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas.
 
 #### Week 3 Homework
 
-* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)](./homework/lao-hw3.pdf): Exponential Decay &mdash; Charging a Capacitor.
+* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)](./homework/lao-hw3.pdf): Exponential Decay &mdash; Charging a Capacitor. [HW3 Solution](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-hw3-solution.ipynb).
 
 #### Week 3 Final Project Planning and Selection
 
