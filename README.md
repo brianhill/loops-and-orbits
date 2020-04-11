@@ -36,6 +36,10 @@
 
 * Final Project: Planning, Selection, Work, and Presentations.
 
+### An RL Circuit Notebook
+
+* During the coronavirus shelter-in-place period, some Physics 4 students worked with this [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Frl_circuit.ipynb).
+
 ## Daily Schedule
 
 ### Week 1 Daily Schedule
@@ -149,10 +153,6 @@
 #### Week 4 Homework
 
 * [Homework 4 (Assigned 2020-01-22, due 2020-01-27)](./homework/lao-hw4.pdf): Correct Missed Problems on Midterm.
-
-#### An Inductance Notebook
-
-* During the coronavirus shelter-in-place period, some Physics 4 students worked with this [Inductance Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Finductance.ipynb).
 
 ### Footnotes
 
