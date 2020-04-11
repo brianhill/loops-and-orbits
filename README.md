@@ -150,6 +150,10 @@
 
 * [Homework 4 (Assigned 2020-01-22, due 2020-01-27)](./homework/lao-hw4.pdf): Correct Missed Problems on Midterm.
 
+#### An Inductance Notebook
+
+* During the coronavirus shelter-in-place period, some Physics 4 students worked with this [Inductance Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Finductance.ipynb).
+
 ### Footnotes
 
 <a name="footnote1">1</a>: For students who had an easy time accepting the pass-by-value and pass-by-reference rules, here is a good-quality and patient explanation of how those somewhat contradictory rules are actually highly compatible: [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/) The bottom line is Python is indeed pass-by-value, but a list is an object &mdash; we haven't learned about objects yet! &mdash; and for objects the variable and the function argument are references to the object, not the object itself. This means that the function body gets a copy of the reference to the list, and the copy of the reference still refers to the original list.
