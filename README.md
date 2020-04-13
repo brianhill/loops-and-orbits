@@ -14,6 +14,8 @@
 * Final Projects
   * [Plan](./final_projects/plan.md)
   * [Teams](./final_projects/teams.md)
+* Bonus Notebook
+  * [The RL Circuit](#an-rl-circuit-notebook)
 
 ## Weekly Schedule
 
@@ -38,7 +40,7 @@
 
 ### An RL Circuit Notebook
 
-* During the coronavirus shelter-in-place period, some Physics 4 students worked with this [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Frl_circuit.ipynb).
+* Bonus Notebook: During the coronavirus shelter-in-place period, some Physics 4 students worked with this [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Frl_circuit.ipynb).
 
 ## Daily Schedule
 
