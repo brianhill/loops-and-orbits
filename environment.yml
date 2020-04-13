@@ -1,3 +1,4 @@
 name: matplotlib-environment
 dependencies:
   - matplotlib
+  - numpy
