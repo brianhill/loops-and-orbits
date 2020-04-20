@@ -42,8 +42,8 @@
 
 During the coronavirus shelter-in-place period, these notebooks were developed for Physics 4 (the lab associated with Physics 3, Electricity &amp; Magnetism):
 
-* Bonus Notebook 1: [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb).
-* Bonus Notebook 2: [Coulomb Repulsion Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2coulomb_repulsion.ipynb).
+* Bonus Notebook 1: [RL Circuit](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb).
+* Bonus Notebook 2: [Coulomb Repulsion](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Fcoulomb_repulsion.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb).
 
 ## Daily Schedule
 
