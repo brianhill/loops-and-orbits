@@ -38,9 +38,12 @@
 
 * Final Project: Planning, Selection, Work, and Presentations.
 
-### An RL Circuit Notebook
+### Bonus Notebooks on Elecricity and Magnetism
 
-* Bonus Notebook: During the coronavirus shelter-in-place period, some Physics 4 students worked with this [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=inductance%2Frl_circuit.ipynb).
+During the coronavirus shelter-in-place period, these notebooks were developed for Physics 4 (the lab associated with Physics 3, Electricity &amp; Magnetism):
+
+* Bonus Notebook 1: [RL Circuit Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb).
+* Bonus Notebook 2: [Coulomb Repulsion Notebook](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2coulomb_repulsion.ipynb).
 
 ## Daily Schedule
 
