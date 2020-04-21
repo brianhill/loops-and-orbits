@@ -14,8 +14,7 @@
 * Final Projects
   * [Plan](./final_projects/plan.md)
   * [Teams](./final_projects/teams.md)
-* Bonus Notebook
-  * [The RL Circuit](#an-rl-circuit-notebook)
+* [Bonus Notebooks](#bonus-notebooks)
 
 ## Weekly Schedule
 
@@ -38,12 +37,14 @@
 
 * Final Project: Planning, Selection, Work, and Presentations.
 
-### Bonus Notebooks on Elecricity and Magnetism
+### Bonus Notebooks
 
-During the coronavirus shelter-in-place period, these notebooks were developed for Physics 4 (the lab associated with Physics 3, Electricity &amp; Magnetism):
+During the coronavirus on-line courses period, these notebooks were developed for Physics 4 and Physics 11L (the labs associated with Physics 3 and Physics 11, respectively):
 
 * Bonus Notebook 1: [RL Circuit](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb).
 * Bonus Notebook 2: [Coulomb Repulsion](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Fcoulomb_repulsion.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb).
+
+Only the second notebook was actually used.
 
 ## Daily Schedule
 
