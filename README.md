@@ -39,12 +39,12 @@
 
 ### Bonus Notebooks
 
-During the coronavirus on-line courses period, these notebooks were developed for Physics 4 and Physics 11L (the labs associated with Physics 3 and Physics 11, respectively):
+During the coronavirus on-line courses period, these notebooks were developed as one alternative to continuing the normal introductory physics labs:
 
 * Bonus Notebook 1: [RL Circuit](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb).
 * Bonus Notebook 2: [Coulomb Repulsion](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Fcoulomb_repulsion.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb).
 
-Only the second notebook was actually used.
+Instead of using these notebooks, we ended up sending the students kits to perform [Physics 4](http://physics.stmarys-ca.edu/courses/Phys004/20S/index.html) labs at home, but they might still be useful starting points, so I'll leave them up.
 
 ## Daily Schedule
 
