@@ -5,7 +5,6 @@
 ![Whole Class](./final_projects/photos/WholeClass.jpeg)
 
 * [Syllabus (with References)](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) (on physics.stmarys-ca.edu)
-* [Weekly Schedule](#weekly-schedule)
 * Daily Schedules by Week
   * [Week 1 Daily Schedule](#week-1-daily-schedule)
   * [Week 2 Daily Schedule](#week-2-daily-schedule)
@@ -16,37 +15,14 @@
   * [Teams](./final_projects/teams.md)
 * [Bonus Notebooks](#bonus-notebooks)
 
-## Weekly Schedule
+## Schedule
 
-### Week 1
+## TODO: Running notebooks in the cloud using [Binder](https://mybinder.org/) is untenably slow. All the links below need to be changed to run local copies or use some other cloud service.
+
+### Week 1 Overview
 
 * Physics &amp; Math: The Description of Motions of Objects in 1-D including Coordinates, Units, Speed, Velocity, and Acceleration.
 * Computer Science: Jupyter Notebooks. Documentation in Markdown. Elements of Python including Expressions, Statements, Variables and Assignments, Types (Lists, Tuples, and Ranges), Control Flow (While and For loops), and introducing Functions.
-
-### Week 2
-
-* Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Two-Dimensional Acceleration. Newton's Universal Theory of Gravitation
-* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging. Dot Notation for Library Functions and Object Methods.
-
-### Week 3
-
-* Physics, Math & Applications: Circular and Elliptical Orbits. Modeling Battery Charging. Modeling Economic Growth. Kepler's Laws. Energy Conservation.
-* Computer Science: Numpy. Mutability, Assignment, and Performance of Python Lists and Numpy Arrays. Second Order Runge-Kutta and Midpoint Method Improvememts to Euler and Euler-Cromer Update Methods. Data Visualization with Pandas.
-	
-### Week 4
-
-* Final Project: Planning, Selection, Work, and Presentations.
-
-### Bonus Notebooks
-
-During the coronavirus on-line courses period, these notebooks were developed as one alternative to continuing the normal introductory physics labs:
-
-* Bonus Notebook 1: [RL Circuit](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb).
-* Bonus Notebook 2: [Coulomb Repulsion](https://github.com/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=electricity_and_magnetism%2Fcoulomb_repulsion.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/observatree/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb).
-
-Instead of using these notebooks, we ended up sending the students kits to perform [Physics 4](http://physics.stmarys-ca.edu/courses/Phys004/20S/index.html) labs at home, but they might still be useful starting points, so I'll leave them up.
-
-## Daily Schedule
 
 ### Week 1 Daily Schedule
 
@@ -72,14 +48,19 @@ Instead of using these notebooks, we ended up sending the students kits to perfo
 
 #### Week 1 Python Coding Lab
 
-* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb): Python Building Blocks (for the first week, we will run the notebooks online using Binder &mdash; starting in the second week, see [Directions for Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf))
-* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run
-* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer
-* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/observatree/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider
+* Jupyter [Notebook 1-1](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=notebooks%2Flao-1-1.ipynb): Python Building Blocks (for the first week, we will run the notebooks online using Binder &mdash; starting in the second week, see [Directions for Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf))
+* Jupyter [Notebook 1-2](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=notebooks%2Flao-1-2.ipynb): Lionel Messi Run
+* Jupyter [Notebook 1-3](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=notebooks%2Flao-1-3.ipynb): Drag Racer
+* Jupyter [Notebook 1-4](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=notebooks%2Flao-1-4.ipynb): Air Glider
 
 #### Week 1 Homework
 
 * [Homework 1 (assigned 2020-01-10, due 2012-01-13)](./homework/lao-hw1.pdf): Adding Damping to the Air Glider. Adding Wind Resistance to the Drag Racer.
+
+### Week 2 Overview
+
+* Physics &amp; Math: The Description of Motions of Objects in 2-D. Projectile Motion. Two-Dimensional Acceleration. Newton's Universal Theory of Gravitation
+* Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging. Dot Notation for Library Functions and Object Methods.
 	
 ### Week 2 Daily Schedule
 
@@ -93,20 +74,25 @@ Instead of using these notebooks, we ended up sending the students kits to perfo
 #### Week 2 Computer Science
 
 * Computer Science Day 2-1: [Directions for Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf). If Statements and Variants, If/Else, If/Elif, and If/Elif/Else.
-* Computer Science Day 2-2: Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
-* Computer Science Day 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html))
+* Computer Science Day 2-2: Libraries; Import Statements; Dependencies and Backtraces (see last section of Jupyter [Notebook 2-2](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb)).
+* Computer Science Day 2-3: Unit Testing (see examples in Jupyter [Notebook 2-3](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb)) and Debugging with the [PDB Commands](./computer_science/pdb_commands.pdf) (excerpted from [the Python 3.7 reference](https://docs.python.org/3.7/download.html))
 * Computer Science Day 2-4: Matrices and the numpy library. Objects. Methods. Libraries. Library Functions.
 
 #### Week 2 Python Coding Lab
 	
-* Jupyter [Notebook 2-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (see directions for [Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf)) ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-1-solved.ipynb)).
-* Jupyter [Notebook 2-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-2-solved.ipynb)).
-* Jupyter [Notebook 2-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon &mdash; Introducing `unittest` ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-3-solved.ipynb)).
-* Jupyter [Notebook 2-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-2-4.ipynb): Introduction to Numpy. 
+* Jupyter [Notebook 2-1](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-1.ipynb): Knocking the Ball out of the Park (see directions for [Using Jupyter Locally on the Lab iMacs](./computer_science/lao-2-1-cs.pdf)) ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-1-solved.ipynb)).
+* Jupyter [Notebook 2-2](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-2.ipynb): Home Run with Air Resistance ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-2-solved.ipynb)).
+* Jupyter [Notebook 2-3](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-3.ipynb): Newton's Cannon &mdash; Introducing `unittest` ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-3-solved.ipynb)).
+* Jupyter [Notebook 2-4](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-2-4.ipynb): Introduction to Numpy. 
 
 #### Week 2 Homework
 
-* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf): Turning the Baseball into a Rocket. Replacing Drag with Thrust. [HW2 Solution](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-hw2-solution.ipynb).
+* [Homework 2 (assigned 2020-01-14, due 2012-01-16)](./homework/lao-hw2.pdf): Turning the Baseball into a Rocket. Replacing Drag with Thrust. [HW2 Solution](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-hw2-solution.ipynb).
+
+### Week 3 Overview
+
+* Physics, Math & Applications: Circular and Elliptical Orbits. Modeling Battery Charging. Modeling Economic Growth. Kepler's Laws. Energy Conservation.
+* Computer Science: Numpy. Mutability, Assignment, and Performance of Python Lists and Numpy Arrays. Second Order Runge-Kutta and Midpoint Method Improvememts to Euler and Euler-Cromer Update Methods. Data Visualization with Pandas.
 
 ### Week 3 Daily Schedule
 
@@ -126,18 +112,22 @@ Instead of using these notebooks, we ended up sending the students kits to perfo
 
 #### Week 3 Python Coding Lab
 
-* Jupyter [Notebook 3-1](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charging ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-1-solved.ipynb)).
-* Jupyter [Notebook 3-2](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-2-solved.ipynb)).
-* Jupyter [Notebook 3-3](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta ([solved Notebook](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-3-solved.ipynb)).
-* Jupyter [Notebook 3-4](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas.
+* Jupyter [Notebook 3-1](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-1.ipynb): Litihium-Ion Battery Charging ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-1-solved.ipynb)).
+* Jupyter [Notebook 3-2](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-2.ipynb) with Prof. Margitay-Becht: Solow-Swan Economic Growth Model ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-2-solved.ipynb)).
+* Jupyter [Notebook 3-3](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-3.ipynb): Elliptical Orbits and Second-Order Runge-Kutta ([solved Notebook](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-3-solved.ipynb)).
+* Jupyter [Notebook 3-4](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-3-4.ipynb): Transfer Orbits, Energy Conservation, Pandas.
 
 #### Week 3 Homework
 
-* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)](./homework/lao-hw3.pdf): Exponential Decay &mdash; Charging a Capacitor. [HW3 Solution](https://github.com/observatree/loops-and-orbits/blob/master/notebooks/lao-hw3-solution.ipynb).
+* [Homework 3 (Assigned 2020-01-22, due 2020-01-24)](./homework/lao-hw3.pdf): Exponential Decay &mdash; Charging a Capacitor. [HW3 Solution](https://github.com/brianhill/loops-and-orbits/blob/master/notebooks/lao-hw3-solution.ipynb).
 
 #### Week 3 Final Project Planning and Selection
 
 * Start Final Project Planning on Day 3-4.
+
+### Week 4 Overivew
+
+* Final Project: Planning, Selection, Work, and Presentations.
 
 ### Week 4 Daily Schedule
 
@@ -159,6 +149,13 @@ Instead of using these notebooks, we ended up sending the students kits to perfo
 #### Week 4 Homework
 
 * [Homework 4 (Assigned 2020-01-22, due 2020-01-27)](./homework/lao-hw4.pdf): Correct Missed Problems on Midterm.
+
+### Bonus Notebooks
+
+Some notebooks developed after the course was over at the request of Jessica Kintner:
+
+* Bonus Notebook 1: [RL Circuit](https://github.com/brianhill/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=electricity_and_magnetism%2Frl_circuit.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/brianhill/loops-and-orbits/blob/master/electricity_and_magnetism/rl_circuit.ipynb).
+* Bonus Notebook 2: [Coulomb Repulsion](https://github.com/brianhill/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb), Launch with [Binder](https://mybinder.org/v2/gh/brianhill/loops-and-orbits/master?filepath=electricity_and_magnetism%2Fcoulomb_repulsion.ipynb), Launch with [Google Colab](https://colab.research.google.com/github/brianhill/loops-and-orbits/blob/master/electricity_and_magnetism/coulomb_repulsion.ipynb).
 
 ### Footnotes
 
